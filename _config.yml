@@ -1,6 +1,7 @@
-title: HRCM Project Website
+title: HRCM
 description: A research collaboration between the UK's Met Office and National Centre for Atmospheric Science
 show_excerpts: true
+baseurl: /hrcm-jekyll
 
 plugins:
   - jekyll-feed

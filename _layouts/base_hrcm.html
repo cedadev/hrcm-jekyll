@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>{{ site.title }}</title>
+    <title>{{ page.title }} | {{ site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Google analytics snippet taken from original cayman theme. Can be controlled from 
             config file -->
@@ -21,20 +21,30 @@
     <!-- End Google Tag Manager -->
     {% endif %}
     
-    <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
     
-    <!-- Bootstrap Core CSS -->
-    <!-- <link rel="stylesheet" href="https://artefacts.ceda.ac.uk/themes/orgtheme_jasmin/0.5/4/flatly/bootstrap.css" media="screen"> -->
-    <!-- Custom CSS -->
-    <!-- customisations of vanilla bootstrap by the bootswatch variant we're using (output from Bootswatch) -->
-    <!-- <link rel="stylesheet" href="https://artefacts.ceda.ac.uk/themes/orgtheme_jasmin/0.5/_assets/css/custom.min.css"> -->
+    
+    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/favicon.ico">
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog/feeds/rss/">
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/blog/feeds/atom/">
+    
+    <link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fancybox/jquery.fancybox.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/flexslider.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/mezzanine.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/skins/default.css">
+
+    <script src="{{ site.baseurl }}/assets/mezzanine/js/jquery-3.4.1.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/bootstrap.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/bootstrap-extras.js"></script>
 
     <!-- Google CSE Search stuff -->
     <script async src="https://cse.google.com/cse.js?cx=98d9bba52d1334b96"></script>
     <script src="https://unpkg.com/mustache@4.1.0"></script>
-    <script src="/assets/js/result_bootstrap_mustache.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/result_bootstrap_mustache.js"></script>
     <script>
-        gcs_results_template = "/assets/html/bootstrap_results.html";
+        gcs_results_template = "{{ site.baseurl }}/assets/html/bootstrap_results.html";
         window.__gcse || (window.__gcse = {});
         window.__gcse.searchCallbacks = {
             web: {
@@ -42,18 +52,6 @@
             },
         };
     </script>
-
-    <link rel="shortcut icon" href="/assets/img/favicon.ico">
-
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog/feeds/rss/">
-    <link rel="alternate" type="application/atom+xml" title="Atom" href="/blog/feeds/atom/">
-
-    <link rel="stylesheet" href="/assets/css/mezzanine.css">
-
-    <!-- <link href="/assets/css/font-awesome.min.css" rel="stylesheet"> -->
-    <link href="/assets/css/prettyPhoto.css" rel="stylesheet">
-    <link href="/assets/css/animate.css" rel="stylesheet">
-    <link href="/assets/css/main.css" rel="stylesheet">
 
 </head>
 
@@ -66,14 +64,15 @@
 
     <div id="root">
         {% include navbar.html %}
-
-        {% unless page.skip_banner %}
-        {% include banner.html %}
-        {% endunless %}
-        
-        <div class="container">
+        {% if page.skip_banner %}
             {{ content }}
-        </div>
+        {% else %}
+            {% include banner.html %}
+            <!--footer-->
+            <section class="container">
+                {{ content }}
+            </section>
+        {% endif %}
 
         <footer>
             <div class="container">
@@ -129,15 +128,15 @@
     </div>
 
 
-    <script src="/static/js/jquery.easing.1.3.js"></script>
-    <script src="/static/js/jquery.fancybox.pack.js"></script>
-    <script src="/static/js/jquery.fancybox-media.js"></script>
-    <script src="/static/js/google-code-prettify/prettify.js"></script>
-    <script src="/static/js/portfolio/jquery.quicksand.js"></script>
-    <script src="/static/js/portfolio/setting.js"></script>
-    <script src="/static/js/jquery.flexslider.js"></script>
-    <script src="/static/js/animate.js"></script>
-    <script src="/static/js/custom.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/jquery.easing.1.3.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/jquery.fancybox.pack.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/jquery.fancybox-media.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/google-code-prettify/prettify.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/portfolio/jquery.quicksand.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/portfolio/setting.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/jquery.flexslider.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/animate.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
 
 </body>
 
