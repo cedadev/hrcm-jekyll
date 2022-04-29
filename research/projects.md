@@ -24,8 +24,8 @@ title: Projects
 <tr>
 <td><a href="/research/projects/higem/"><img height="50" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/higem_logo_small.jpg"></a></td>
 <td><strong>HiGEM</strong></td>
-<td>           2010</td>
-<td>          2014</td>
+<td>2010</td>
+<td>2014</td>
 </tr>
 <tr>
 <td><a href="/research/projects/jwcrp/"><img height="50" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/jwcrp.png"></a> </td>
