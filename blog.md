@@ -1,10 +1,11 @@
 ---
 date: 2016-05-24 19:24:25
 description: "\nIn this section...\n\_"
-layout: base_hrcm
+layout: blog
 order: 5
 permalink: /blog/
 title: Media
+skip_banner: true
 ---
 
 <div>
