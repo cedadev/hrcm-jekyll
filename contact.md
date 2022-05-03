@@ -6,13 +6,10 @@ layout: base_hrcm
 order: 6
 permalink: /contact/
 title: Contact
+contact_email: dummy@email.com
 ---
 
 
 
-
-
-Use this form to submit data access requests or general queries to HRCM.
- 
-Name 
-required
+<p></p>
+<p>Please email <strong><a href="mailto:{{ page.contact_email }}">{{ page.contact_email }}</a></strong>.</p>
