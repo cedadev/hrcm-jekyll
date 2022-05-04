@@ -1,10 +1,12 @@
 ---
+author: malcolm
 date: 2016-10-07 10:07:52
 description: "This paper, just published with co-authors from the PRIMAVERA\_project,\
   \ on model-observation comparison offers researchers important guidance on objective\
   \ selection of observational data."
 layout: post
-permalink: /new-publication-model-obs-comparison/
+permalink: /blog/new-publication-model-obs-comparison/
+skip_banner: true
 title: 'New publication: comparing models with observations'
 ---
 

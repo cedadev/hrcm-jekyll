@@ -1,4 +1,5 @@
 ---
+author: alex
 date: 2017-04-04 13:04:37
 description: "Three new posts are now\_available in our research group to complement\
   \ and enhance\_our high-resolution global climate modelling and land surface processes\
@@ -8,7 +9,8 @@ description: "Three new posts are now\_available in our research group to comple
   \ (e.g. in Easterly Waves, Tropical and Extra-Tropical Cyclones) and land surface-atmosphere\
   \ interactions."
 layout: post
-permalink: /new-research-positions-available/
+permalink: /blog/new-research-positions-available/
+skip_banner: true
 title: 'ANNOUNCEMENT: New research positions in HRCM'
 ---
 

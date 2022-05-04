@@ -1,4 +1,5 @@
 ---
+author: alex
 date: 2017-03-03 14:43:34
 description: 'Plot of the month for March 2017 is from recent published work by Reinhard
   Schiemann et al., who study how the representation of Northern Hemisphere blocking
@@ -6,7 +7,8 @@ description: 'Plot of the month for March 2017 is from recent published work by 
 
   '
 layout: post
-permalink: /plot-of-the-month-mar-2017/
+permalink: /blog/plot-of-the-month-mar-2017/
+skip_banner: true
 title: 'Plot of the month (Mar 2017): Northern Hemisphere spring blocking'
 ---
 
@@ -16,7 +18,7 @@ title: 'Plot of the month (Mar 2017): Northern Hemisphere spring blocking'
 <p></p>
 <div>We evaluated how well different climate models represent atmospheric blocking situations during sprint (March-May; see figure).</div>
 <div>
-<p><a href="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Figures/mam_blocking_schiemann_2016.png"><img height="720" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Figures/mam_blocking_schiemann_2016.png" width="1086"></a></p>
+<p><a href="{{ site.baseurl }}/assets/media/uploads/Figures/mam_blocking_schiemann_2016.png"><img height="720" src="{{ site.baseurl }}/assets/media/uploads/Figures/mam_blocking_schiemann_2016.png" width="1086"></a></p>
 </div>
 <p><strong>Figure | Spring blocking frequency in reanalysis (a), low-resolution (d-e) and high-resolution (f-i) atmosphere-only simulations. (Click the image for a larger version.)</strong></p>
 <p> </p>

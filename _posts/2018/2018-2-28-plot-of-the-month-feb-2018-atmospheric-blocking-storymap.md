@@ -1,4 +1,5 @@
 ---
+author: alex
 date: 2018-02-28 18:01:06
 description: "Plot of the month for February 2018 is from the\_PRIMAVERA\_project\
   \ as part of its user engagement activities, which explores the role atmospheric\
@@ -9,7 +10,8 @@ description: "Plot of the month for February 2018 is from the\_PRIMAVERA\_projec
   \ systems (anti-cyclones). Atmospheric blocking is a stable atmospheric circulation\
   \ that yields persistent weather over large regions for weeks to months."
 layout: post
-permalink: /plot-of-the-month-feb-2018-atmospheric-blocking-storymap/
+permalink: /blog/plot-of-the-month-feb-2018-atmospheric-blocking-storymap/
+skip_banner: true
 title: 'Plot of the month (Feb 2018): atmospheric blocking ''storymap'''
 ---
 
@@ -18,5 +20,5 @@ title: 'Plot of the month (Feb 2018): atmospheric blocking ''storymap'''
 <p>Persistent dry conditions and anomalously weak winds occur below the high-pressure area. Depending on the topography and position of the blocking event, persistent rain (and potentially flooding) may occur if the unstable throughs adjacent to the high-pressure area may receive sufficient moisture (e.g., a warm water mass; for Europe, this may be the Mediterranean Sea).</p>
 <p>The scientific and societal importance of these anticyclonic systems is explored by a 'storymap', which may be found <a href="https://uip.primavera-h2020.eu/storymaps/atmospheric-blockings#carouselMap" target="_blank"><strong>here</strong></a>.</p>
 <p></p>
-<p><a href="https://uip.primavera-h2020.eu/storymaps/atmospheric-blockings#carouselMap" target="_blank"><img src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Figures/blocking_storymap.png"></a></p>
+<p><a href="https://uip.primavera-h2020.eu/storymaps/atmospheric-blockings#carouselMap" target="_blank"><img src="{{ site.baseurl }}/assets/media/uploads/Figures/blocking_storymap.png"></a></p>
 <p><strong>Figure | Atmospheric blocking 'storymap'. The figures shows an omega-type blocking event.</strong></p>

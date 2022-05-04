@@ -1,17 +1,19 @@
 ---
+author: alex
 date: 2016-12-08 19:09:59
 description: "Plot of the month for December 2016 is from\_Beno\xEEt Vanni\xE8re,\
   \ who evaluates hydrological cycle processes in models and their sensitivity to\
   \ model horizontal resolution.\n"
 layout: post
-permalink: /plot-of-the-month-oct-2016-high-resolution-present-climate-simulation/
+permalink: /blog/plot-of-the-month-oct-2016-high-resolution-present-climate-simulation/
+skip_banner: true
 title: 'Plot of the month (Dec 2016): land and global precipitation'
 ---
 
 <h4><em><strong>Plot of the month</strong></em> for December 2016 is from <strong><a href="http://www.met.reading.ac.uk/userpages/nr912752.php">Benoît Vannière</a></strong>, who evaluates hydrological cycle processes in models and their sensitivity to model horizontal resolution.<img></h4>
 <p></p>
 <p> </p>
-<p><img src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Figures/hrdrol_resol_sensitivity_benoit_vanniere.png"></p>
+<p><img src="{{ site.baseurl }}/assets/media/uploads/Figures/hrdrol_resol_sensitivity_benoit_vanniere.png"></p>
 <p>This figure shows the<strong> ratio of land to global precipitation as a function of model resolution</strong> (at 50°N). Filled circles show atmosphere-only experiments and open circles show coupled experiments.</p>
 <div>
 <ul>

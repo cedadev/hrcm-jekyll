@@ -1,10 +1,12 @@
 ---
+author: alex
 date: 2017-07-19 14:43:21
 description: "Plot of the month for July 2017 is from Beno\xEEt Vanni\xE8re, who studies\
   \ how precipitation simulated by several global climate models changes when the\
   \ models' atmospheric resolution is increased.\n\_"
 layout: post
-permalink: /plot-of-the-month-jul-2017-high-resolution-global-precipitation/
+permalink: /blog/plot-of-the-month-jul-2017-high-resolution-global-precipitation/
+skip_banner: true
 title: 'Plot of the month (Jul 2017): high-resolution global precipitation'
 ---
 
@@ -18,7 +20,7 @@ title: 'Plot of the month (Jul 2017): high-resolution global precipitation'
 <li>a decrease of precipitation over the Maritime Continent.</li>
 </ul>
 <p> </p>
-<p><a href="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Figures/model_ensemble_hr-lr_total_precip_annual.jpg"><img src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Figures/model_ensemble_hr-lr_total_precip_annual.jpg"></a></p>
+<p><a href="{{ site.baseurl }}/assets/media/uploads/Figures/model_ensemble_hr-lr_total_precip_annual.jpg"><img src="{{ site.baseurl }}/assets/media/uploads/Figures/model_ensemble_hr-lr_total_precip_annual.jpg"></a></p>
 <p><strong>Figure | multi-model mean difference between high- and low-resolution global precipitation. Units are mm per day. A small black dot indicates five out of six models agree on the sign of the precipitation change at that model grid box; a large dot indicates that all six models agree. (Click the image for a larger version.)</strong></p>
 <p> </p>
 <p><em><strong>This work is currently in preparation for publication.</strong></em></p>
