@@ -494,761 +494,761 @@ title: N1024 model
 <div class="twistyRememberSetting twistyContent twistyInited1" id="topicattachmentslisttoggle">
 <table border="1" cellpadding="0" cellspacing="0" class="twikiTable" id="twikiAttachmentsTable" rules="rows" summary="Topic attachments"><caption>Topic attachments</caption>
 <tbody>
-<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=0;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">I</span></a></th><th class="twikiTableCol1" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=1;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Attachment</span></a></th><th class="twikiTableCol2" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=2;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Action</span></a></th><th class="twikiTableCol3" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=3;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Size</span></a></th><th class="twikiTableCol4" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=4;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Date</span></a></th><th class="twikiTableCol5" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=5;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Who</span></a></th><th class="twikiTableCol6 twikiLastCol" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=6;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Comment</span></a></th></tr>
+<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=0;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">I</span></a></th><th class="twikiTableCol1" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=1;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Attachment</span></a></th><th class="twikiTableCol2" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=2;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Action</span></a></th><th class="twikiTableCol3" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=3;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Size</span></a></th><th class="twikiTableCol4" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=4;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Date</span></a></th><th class="twikiTableCol5" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=5;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Who</span></a></th><th class="twikiTableCol6 twikiLastCol" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLN1024Model?sortcol=6;table=9;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Comment</span></a></th></tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="else" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/else.gif" width="16"><span class="twikiHidden">EXT</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/JOBSHEET_stash">JOBSHEET_stash</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=JOBSHEET_stash;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/JOBSHEET_stash">JOBSHEET_stash</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=JOBSHEET_stash;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">166.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-29 - 09:52</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="else" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/else.gif" width="16"><span class="twikiHidden">EXT</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/JOBSHEET_stash_ampnr">JOBSHEET_stash_ampnr</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=JOBSHEET_stash_ampnr;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/JOBSHEET_stash_ampnr">JOBSHEET_stash_ampnr</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=JOBSHEET_stash_ampnr;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">58.0 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-01-15 - 12:20</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="else" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/else.gif" width="16"><span class="twikiHidden">EXT</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/JOBSHEET_stash_extra">JOBSHEET_stash_extra</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=JOBSHEET_stash_extra;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/JOBSHEET_stash_extra">JOBSHEET_stash_extra</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=JOBSHEET_stash_extra;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">1.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-01-15 - 12:19</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="mov" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/mov.gif" width="16"><span class="twikiHidden">avi</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/N1024.avi">N1024.avi</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=N1024.avi;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/N1024.avi">N1024.avi</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=N1024.avi;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">5598.4 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-10-08 - 13:29</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MatthewMizielinski">MatthewMizielinski</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MatthewMizielinski">MatthewMizielinski</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/QBO_N1024.expl.png">QBO_N1024.expl.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=QBO_N1024.expl.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/QBO_N1024.expl.png">QBO_N1024.expl.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=QBO_N1024.expl.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">39.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2016-01-12 - 09:48</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MichaelVellinga">MichaelVellinga</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MichaelVellinga">MichaelVellinga</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">QBO explicit</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/QBO_N1024.param.png">QBO_N1024.param.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=QBO_N1024.param.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/QBO_N1024.param.png">QBO_N1024.param.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=QBO_N1024.param.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">77.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2016-01-12 - 09:47</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MichaelVellinga">MichaelVellinga</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MichaelVellinga">MichaelVellinga</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">QBO parameterised</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/africa_ampnd_ampnn_ampnw_trmm_1hrmn.png">africa_ampnd_ampnn_ampnw_trmm_1hrmn.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=africa_ampnd_ampnn_ampnw_trmm_1hrmn.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/africa_ampnd_ampnn_ampnw_trmm_1hrmn.png">africa_ampnd_ampnn_ampnw_trmm_1hrmn.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=africa_ampnd_ampnn_ampnw_trmm_1hrmn.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">79.2 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-06-20 - 17:07</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/africa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png">africa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=africa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/africa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png">africa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=africa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">177.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-05 - 10:36</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/africa_orog_815n.png">africa_orog_815n.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=africa_orog_815n.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/africa_orog_815n.png">africa_orog_815n.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=africa_orog_815n.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">5.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-26 - 09:44</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/aliur_AEWstats.png">aliur_AEWstats.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=aliur_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/aliur_AEWstats.png">aliur_AEWstats.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=aliur_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">37.4 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:36</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/aliur_egAEWRAINhov.png">aliur_egAEWRAINhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=aliur_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/aliur_egAEWRAINhov.png">aliur_egAEWRAINhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=aliur_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">248.6 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:36</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/aliur_egAEWhov.png">aliur_egAEWhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=aliur_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/aliur_egAEWhov.png">aliur_egAEWhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=aliur_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">257.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:38</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/aliur_raincoupling.png">aliur_raincoupling.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=aliur_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/aliur_raincoupling.png">aliur_raincoupling.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=aliur_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">139.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:37</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/aliuritcz_landoceanhov.png">aliuritcz_landoceanhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=aliuritcz_landoceanhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/aliuritcz_landoceanhov.png">aliuritcz_landoceanhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=aliuritcz_landoceanhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">172.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 17:34</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampna_AEWstats.png">ampna_AEWstats.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampna_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampna_AEWstats.png">ampna_AEWstats.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampna_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">40.0 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:35</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampna_egAEWRAINhov.png">ampna_egAEWRAINhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampna_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampna_egAEWRAINhov.png">ampna_egAEWRAINhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampna_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">340.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:37</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampna_egAEWhov.png">ampna_egAEWhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampna_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampna_egAEWhov.png">ampna_egAEWhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampna_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">312.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:39</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampna_raincoupling.png">ampna_raincoupling.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampna_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampna_raincoupling.png">ampna_raincoupling.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampna_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">179.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:38</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnadiurnalcycle_LV.png">ampnadiurnalcycle_LV.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnadiurnalcycle_LV.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnadiurnalcycle_LV.png">ampnadiurnalcycle_LV.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnadiurnalcycle_LV.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">123.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:09</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">parameterised diurnal LV</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnaitcz_landoceanhov.png">ampnaitcz_landoceanhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnaitcz_landoceanhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnaitcz_landoceanhov.png">ampnaitcz_landoceanhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnaitcz_landoceanhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">287.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 17:34</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnaitcz_landoceanhov_4yrs.png">ampnaitcz_landoceanhov_4yrs.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnaitcz_landoceanhov_4yrs.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnaitcz_landoceanhov_4yrs.png">ampnaitcz_landoceanhov_4yrs.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnaitcz_landoceanhov_4yrs.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">242.6 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-25 - 17:29</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnn_AEWstats.png">ampnn_AEWstats.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnn_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnn_AEWstats.png">ampnn_AEWstats.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnn_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">79.3 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 11:50</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnn_egAEWRAINhov.png">ampnn_egAEWRAINhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnn_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnn_egAEWRAINhov.png">ampnn_egAEWRAINhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnn_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">516.6 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 11:51</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnn_egAEWhov.png">ampnn_egAEWhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnn_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnn_egAEWhov.png">ampnn_egAEWhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnn_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">408.0 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 11:51</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnn_raincoupling.png">ampnn_raincoupling.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnn_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnn_raincoupling.png">ampnn_raincoupling.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnn_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">199.0 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 11:51</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnndiurnalcycle_LV.png">ampnndiurnalcycle_LV.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnndiurnalcycle_LV.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnndiurnalcycle_LV.png">ampnndiurnalcycle_LV.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnndiurnalcycle_LV.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">130.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:09</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnnitcz_landoceanhov.png">ampnnitcz_landoceanhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnnitcz_landoceanhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnnitcz_landoceanhov.png">ampnnitcz_landoceanhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnnitcz_landoceanhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">293.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 17:34</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnr_AEWstats.png">ampnr_AEWstats.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnr_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnr_AEWstats.png">ampnr_AEWstats.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnr_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">79.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 11:52</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnr_egAEWRAINhov.png">ampnr_egAEWRAINhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnr_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnr_egAEWRAINhov.png">ampnr_egAEWRAINhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnr_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">344.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 11:52</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnr_egAEWhov.png">ampnr_egAEWhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnr_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnr_egAEWhov.png">ampnr_egAEWhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnr_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">317.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 11:56</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnr_raincoupling.png">ampnr_raincoupling.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnr_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/ampnr_raincoupling.png">ampnr_raincoupling.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=ampnr_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">172.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:44</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/cloud_ice_jja_4900_12300_mean.png">cloud_ice_jja_4900_12300_mean.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=cloud_ice_jja_4900_12300_mean.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/cloud_ice_jja_4900_12300_mean.png">cloud_ice_jja_4900_12300_mean.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=cloud_ice_jja_4900_12300_mean.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">70.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-28 - 11:57</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_EU.png">diurnal_MAM_model_trmm_EU.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_EU.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_EU.png">diurnal_MAM_model_trmm_EU.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_EU.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">219.3 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-23 - 16:42</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_India.png">diurnal_MAM_model_trmm_India.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_India.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_India.png">diurnal_MAM_model_trmm_India.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_India.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">189.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-23 - 16:42</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_MC.png">diurnal_MAM_model_trmm_MC.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_MC.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_MC.png">diurnal_MAM_model_trmm_MC.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_MC.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">289.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-23 - 16:41</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_US.png">diurnal_MAM_model_trmm_US.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_US.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_US.png">diurnal_MAM_model_trmm_US.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_US.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">258.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-23 - 16:40</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_amazon.png">diurnal_MAM_model_trmm_amazon.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_amazon.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_amazon.png">diurnal_MAM_model_trmm_amazon.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_amazon.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">176.2 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-23 - 16:42</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_global.png">diurnal_MAM_model_trmm_global.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_global.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_global.png">diurnal_MAM_model_trmm_global.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_global.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">375.4 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-23 - 16:40</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_sahel.png">diurnal_MAM_model_trmm_sahel.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_sahel.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_MAM_model_trmm_sahel.png">diurnal_MAM_model_trmm_sahel.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_MAM_model_trmm_sahel.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">262.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-23 - 17:27</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_ampnapo_trmm_ducmap3.png">diurnal_ampnapo_trmm_ducmap3.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_ampnapo_trmm_ducmap3.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_ampnapo_trmm_ducmap3.png">diurnal_ampnapo_trmm_ducmap3.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_ampnapo_trmm_ducmap3.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">267.2 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-12-20 - 10:56</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_ampnawn_trmm_ducmap3.png">diurnal_ampnawn_trmm_ducmap3.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_ampnawn_trmm_ducmap3.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_ampnawn_trmm_ducmap3.png">diurnal_ampnawn_trmm_ducmap3.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_ampnawn_trmm_ducmap3.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">396.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-02-20 - 21:14</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_ampnw_mamjja.png">diurnal_ampnw_mamjja.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_ampnw_mamjja.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_ampnw_mamjja.png">diurnal_ampnw_mamjja.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_ampnw_mamjja.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">300.4 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-02-15 - 08:37</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_EU.png">diurnal_n1024_marapr2008_EU.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_EU.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_EU.png">diurnal_n1024_marapr2008_EU.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_EU.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">103.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-08 - 14:22</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_India.png">diurnal_n1024_marapr2008_India.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_India.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_India.png">diurnal_n1024_marapr2008_India.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_India.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">107.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-08 - 14:22</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_MC.png">diurnal_n1024_marapr2008_MC.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_MC.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_MC.png">diurnal_n1024_marapr2008_MC.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_MC.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">141.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-08 - 14:22</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_amazon.png">diurnal_n1024_marapr2008_amazon.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_amazon.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_amazon.png">diurnal_n1024_marapr2008_amazon.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_amazon.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">100.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-08 - 14:22</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_global.png">diurnal_n1024_marapr2008_global.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_global.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_global.png">diurnal_n1024_marapr2008_global.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_global.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">237.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-08 - 14:22</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_sahel.png">diurnal_n1024_marapr2008_sahel.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_sahel.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/diurnal_n1024_marapr2008_sahel.png">diurnal_n1024_marapr2008_sahel.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=diurnal_n1024_marapr2008_sahel.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">140.3 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-08 - 14:22</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/erai_egAEWRAINhov.png">erai_egAEWRAINhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=erai_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/erai_egAEWRAINhov.png">erai_egAEWRAINhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=erai_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">379.2 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:36</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/erai_egAEWhov.png">erai_egAEWhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=erai_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/erai_egAEWhov.png">erai_egAEWhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=erai_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">414.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:38</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/erai_raincoupling.png">erai_raincoupling.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=erai_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/erai_raincoupling.png">erai_raincoupling.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=erai_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">145.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:37</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/fraction_precip.png">fraction_precip.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=fraction_precip.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/fraction_precip.png">fraction_precip.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=fraction_precip.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">121.2 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-02-25 - 14:33</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/gpcpitcz_landoceanhov.png">gpcpitcz_landoceanhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=gpcpitcz_landoceanhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/gpcpitcz_landoceanhov.png">gpcpitcz_landoceanhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=gpcpitcz_landoceanhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">161.4 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 17:34</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="pdf" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/pdf.gif" width="16"><span class="twikiHidden">pdf</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/mjo_ampna_xgxqe.pdf">mjo_ampna_xgxqe.pdf</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=mjo_ampna_xgxqe.pdf;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/mjo_ampna_xgxqe.pdf">mjo_ampna_xgxqe.pdf</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=mjo_ampna_xgxqe.pdf;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">4821.0 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-12-12 - 15:32</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="pdf" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/pdf.gif" width="16"><span class="twikiHidden">pdf</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/mjo_ampnn_ampna.pdf">mjo_ampnn_ampna.pdf</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=mjo_ampnn_ampna.pdf;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/mjo_ampnn_ampna.pdf">mjo_ampnn_ampna.pdf</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=mjo_ampnn_ampna.pdf;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">4638.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-12-12 - 15:29</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="pdf" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/pdf.gif" width="16"><span class="twikiHidden">pdf</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/mjo_xgxqe_xgxqo.pdf">mjo_xgxqe_xgxqo.pdf</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=mjo_xgxqe_xgxqo.pdf;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/mjo_xgxqe_xgxqo.pdf">mjo_xgxqe_xgxqo.pdf</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=mjo_xgxqe_xgxqo.pdf;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">4943.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-12-12 - 15:36</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="mov" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/mov.gif" width="16"><span class="twikiHidden">mp4</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/n1024_ec_ampnf.mp4">n1024_ec_ampnf.mp4</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=n1024_ec_ampnf.mp4;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/n1024_ec_ampnf.mp4">n1024_ec_ampnf.mp4</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=n1024_ec_ampnf.mp4;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">6556.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-10-07 - 13:49</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="mov" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/mov.gif" width="16"><span class="twikiHidden">mp4</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/n1024_pc_ampnd.mp4">n1024_pc_ampnd.mp4</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=n1024_pc_ampnd.mp4;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/n1024_pc_ampnd.mp4">n1024_pc_ampnd.mp4</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=n1024_pc_ampnd.mp4;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">5653.0 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-10-07 - 13:46</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/olr_precip_power.png">olr_precip_power.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=olr_precip_power.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/olr_precip_power.png">olr_precip_power.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=olr_precip_power.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">35.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-02-28 - 16:49</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/olr_precip_power_sm.png">olr_precip_power_sm.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=olr_precip_power_sm.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/olr_precip_power_sm.png">olr_precip_power_sm.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=olr_precip_power_sm.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">23.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-04 - 09:53</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/olr_precip_ts_central.png">olr_precip_ts_central.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=olr_precip_ts_central.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/olr_precip_ts_central.png">olr_precip_ts_central.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=olr_precip_ts_central.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">10.2 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-02-28 - 16:59</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/olr_precip_ts_north.png">olr_precip_ts_north.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=olr_precip_ts_north.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/olr_precip_ts_north.png">olr_precip_ts_north.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=olr_precip_ts_north.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">9.3 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-04 - 09:56</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/olr_precip_ts_ocean.png">olr_precip_ts_ocean.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=olr_precip_ts_ocean.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/olr_precip_ts_ocean.png">olr_precip_ts_ocean.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=olr_precip_ts_ocean.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">11.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-04 - 09:56</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/trmmdiurnalcycle_LV.png">trmmdiurnalcycle_LV.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=trmmdiurnalcycle_LV.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/trmmdiurnalcycle_LV.png">trmmdiurnalcycle_LV.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=trmmdiurnalcycle_LV.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">110.3 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-14 - 14:10</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/CarolineBain">CarolineBain</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">TRMM diurnal LV</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/usa_ampnd_ampnn_ampnw_trmm_1hrmn.png">usa_ampnd_ampnn_ampnw_trmm_1hrmn.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=usa_ampnd_ampnn_ampnw_trmm_1hrmn.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/usa_ampnd_ampnn_ampnw_trmm_1hrmn.png">usa_ampnd_ampnn_ampnw_trmm_1hrmn.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=usa_ampnd_ampnn_ampnw_trmm_1hrmn.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">34.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-05 - 10:39</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/usa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png">usa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=usa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/usa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png">usa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=usa_ampnd_ampnn_ampnw_trmm_1hrmn_full.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">120.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-03-05 - 10:39</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/usa_orog_3545n.png">usa_orog_3545n.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=usa_orog_3545n.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/usa_orog_3545n.png">usa_orog_3545n.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=usa_orog_3545n.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">5.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-26 - 09:44</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="jpg" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/jpg.gif" width="16"><span class="twikiHidden">jpeg</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/waliser.jpeg">waliser.jpeg</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=waliser.jpeg;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/waliser.jpeg">waliser.jpeg</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=waliser.jpeg;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">84.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2012-11-23 - 17:44</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqe_AEWstats.png">xgxqe_AEWstats.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqe_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqe_AEWstats.png">xgxqe_AEWstats.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqe_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">75.2 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:44</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqe_egAEWRAINhov.png">xgxqe_egAEWRAINhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqe_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqe_egAEWRAINhov.png">xgxqe_egAEWRAINhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqe_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">325.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:45</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqe_egAEWhov.png">xgxqe_egAEWhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqe_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqe_egAEWhov.png">xgxqe_egAEWhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqe_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">365.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:45</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqe_raincoupling.png">xgxqe_raincoupling.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqe_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqe_raincoupling.png">xgxqe_raincoupling.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqe_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">153.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:45</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqk_AEWstats.png">xgxqk_AEWstats.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqk_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqk_AEWstats.png">xgxqk_AEWstats.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqk_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">76.0 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:46</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqk_egAEWRAINhov.png">xgxqk_egAEWRAINhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqk_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqk_egAEWRAINhov.png">xgxqk_egAEWRAINhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqk_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">350.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:46</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqk_egAEWhov.png">xgxqk_egAEWhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqk_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqk_egAEWhov.png">xgxqk_egAEWhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqk_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">355.3 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:46</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqk_raincoupling.png">xgxqk_raincoupling.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqk_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqk_raincoupling.png">xgxqk_raincoupling.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqk_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">156.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:46</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqo_AEWstats.png">xgxqo_AEWstats.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqo_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqo_AEWstats.png">xgxqo_AEWstats.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqo_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">75.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:46</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqo_egAEWRAINhov.png">xgxqo_egAEWRAINhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqo_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqo_egAEWRAINhov.png">xgxqo_egAEWRAINhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqo_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">238.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:46</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqo_egAEWhov.png">xgxqo_egAEWhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqo_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqo_egAEWhov.png">xgxqo_egAEWhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqo_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">274.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:47</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqo_raincoupling.png">xgxqo_raincoupling.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqo_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xgxqo_raincoupling.png">xgxqo_raincoupling.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xgxqo_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">147.4 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:47</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xhqin_AEWstats.png">xhqin_AEWstats.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xhqin_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xhqin_AEWstats.png">xhqin_AEWstats.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xhqin_AEWstats.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">74.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:47</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xhqin_egAEWRAINhov.png">xhqin_egAEWRAINhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xhqin_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xhqin_egAEWRAINhov.png">xhqin_egAEWRAINhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xhqin_egAEWRAINhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">225.0 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:47</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xhqin_egAEWhov.png">xhqin_egAEWhov.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xhqin_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xhqin_egAEWhov.png">xhqin_egAEWhov.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xhqin_egAEWhov.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">258.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:47</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol twikiLast" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1 twikiLast" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLN1024Model/xhqin_raincoupling.png">xhqin_raincoupling.png</a></td>
-<td align="left" class="twikiTableCol2 twikiLast" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xhqin_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1 twikiLast" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLN1024Model/xhqin_raincoupling.png">xhqin_raincoupling.png</a></td>
+<td align="left" class="twikiTableCol2 twikiLast" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLN1024Model?filename=xhqin_raincoupling.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3 twikiLast" valign="top">143.1 K</td>
 <td align="left" class="twikiTableCol4 twikiLast" valign="top"><span class="twikiNoBreak">2013-05-01 - 12:50</span></td>
-<td align="left" class="twikiTableCol5 twikiLast" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
+<td align="left" class="twikiTableCol5 twikiLast" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol twikiLast" valign="top"> </td>
 </tr>
 </tbody>

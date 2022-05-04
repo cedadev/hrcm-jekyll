@@ -11,13 +11,13 @@ title: Brief description of PRIMAVERA simulations
 
 <h2>Brief documentation of PRIMAVERA simulations</h2>
 <p></p>
-<p>Stream 1 core simulations - <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HighResMIP?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="HighResMIP (this topic does not yet exist; you can create it)">HighResMIP</a></span> protocol, <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span> , 1 ensemble member each (initially). The simulation name is from the Haarsma et al <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HighResMIP?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="HighResMIP (this topic does not yet exist; you can create it)">HighResMIP</a></span> protocol paper: <a href="http://dx.doi.org/10.5194/gmd-9-4185-2016" target="_top">http://dx.doi.org/10.5194/gmd-9-4185-2016</a></p>
+<p>Stream 1 core simulations - <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HighResMIP?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="HighResMIP (this topic does not yet exist; you can create it)">HighResMIP</a></span> protocol, <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span> , 1 ensemble member each (initially). The simulation name is from the Haarsma et al <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HighResMIP?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="HighResMIP (this topic does not yet exist; you can create it)">HighResMIP</a></span> protocol paper: <a href="http://dx.doi.org/10.5194/gmd-9-4185-2016" target="_top">http://dx.doi.org/10.5194/gmd-9-4185-2016</a></p>
 <p></p>
 <p><a href="https://code.metoffice.gov.uk/trac/ukcmip6/wiki/CMIP6HighResMIP" target="_top">Back to CMIP6 HighResMIP web page</a></p>
 <p></p>
-<p>In graphical form: <a class="twikiLink" href="/twiki/bin/view/Project/HiResCL/PRIMSimulationsDiagram">PRIMSimulationsDiagram</a></p>
+<p>In graphical form: <a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/PRIMSimulationsDiagram">PRIMSimulationsDiagram</a></p>
 <p></p>
-<p>The <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HighResMIP?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="HighResMIP (this topic does not yet exist; you can create it)">HighResMIP</a></span> simulations in the list below are documented on the CMIP6 site: <a href="https://code.metoffice.gov.uk/trac/ukcmip6/wiki/CMIP6HighResMIP" target="_top">https://code.metoffice.gov.uk/trac/ukcmip6/wiki/CMIP6HighResMIP</a></p>
+<p>The <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HighResMIP?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="HighResMIP (this topic does not yet exist; you can create it)">HighResMIP</a></span> simulations in the list below are documented on the CMIP6 site: <a href="https://code.metoffice.gov.uk/trac/ukcmip6/wiki/CMIP6HighResMIP" target="_top">https://code.metoffice.gov.uk/trac/ukcmip6/wiki/CMIP6HighResMIP</a></p>
 <p></p>
 <table border="1" cellpadding="0" cellspacing="0" class="twikiTable" id="table1" rules="rows">
 <tbody>
@@ -754,7 +754,7 @@ title: Brief description of PRIMAVERA simulations
 </li>
 </ul>
 <p></p>
-<p>and also the <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span>files (that are coming from JASMIN)</p>
+<p>and also the <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span>files (that are coming from JASMIN)</p>
 <p></p>
 <h4><a name="Rebuilding NEMO restart files an"></a> Rebuilding NEMO restart files and meaning</h4>
 <ul>
@@ -793,7 +793,7 @@ title: Brief description of PRIMAVERA simulations
 <li>move to tmp or remove the .xhist file</li>
 <li>copy the last (most recent file) from: ~cylc-run/$suiteid/work/cycle before the one that failed/coupled/history_archive/temp_hist.000* to runid.xhist</li>
 <li>this .xhist should have CHECKPOINT_DUMP_IM = to the dump that you think you are going to restart from in this cycle</li>
-<li>perturb atmos restart: (on MO machine, use Var utils, run in the <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HistoryData?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="HistoryData (this topic does not yet exist; you can create it)">HistoryData</a></span>directory)
+<li>perturb atmos restart: (on MO machine, use Var utils, run in the <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HistoryData?topicparent=Project/HiResCL.HiResCLPRIMSimulations" rel="nofollow" title="HistoryData (this topic does not yet exist; you can create it)">HistoryData</a></span>directory)
 <ul>
 <li>~hadom/Var/random_temp_perturb_seed_cray ./dump_to_perturb_name ./dump_to_perturb_name_pert</li>
 <li>once this completes, rename the original, and link the perturbed dump to the dump to run from

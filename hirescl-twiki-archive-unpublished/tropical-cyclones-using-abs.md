@@ -127,9 +127,9 @@ If you have any problems setting up the code then please contact <a href="mailto
 <p></p>
 <p></p>
 <p></p>
--- <a class="twikiLink" href="/twiki/bin/view/Main/JoanneCamp">JoanneCamp</a>- 04 Jun 2014
+-- <a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/JoanneCamp">JoanneCamp</a>- 04 Jun 2014
 <p></p>
--- <a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a> - 2014-12-13</div>
+-- <a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a> - 2014-12-13</div>
 <!-- /patternTopic-->
 <div class="twikiContentFooter"></div>
 </div>

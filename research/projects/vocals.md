@@ -10,7 +10,7 @@ title: VOCALS
 ---
 
 <h2>VOCALS</h2>
-<p><img alt="VOCALS logo" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/vocals_230.jpg" title="VOCALS iogo"></p>
+<p><img alt="VOCALS logo" src="{{ site.baseurl }}/assets/media/uploads/Logos/vocals_230.jpg" title="VOCALS iogo"></p>
 <p>The<a href="http://www.eol.ucar.edu/projects/vamos/" target="_blank" title="VOCALS"> </a><strong><a href="http://www.eol.ucar.edu/projects/vamos/" target="_blank" title="VAMOS">VAMOS</a></strong><a href="http://www.eol.ucar.edu/projects/vamos/"> </a>Ocean-Cloud-Atmosphere-Land Study (VOCALS) is an international CLIVAR program the major goal of which is to develop and promote scientific activities leading to improved understanding of the SEP coupled ocean-atmosphere-land system on diurnal to inter-annual timescales. The principal program objectives are:</p>
 <p>1) the improved understand and regional/global model representation of aerosol indirect effects over the SEP;</p>
 <p>2) the elimination of systematic errors in the region of coupled atmospheric-ocean general circulation models, and improved model simulations and predictions of the coupled climate in the SEP and global impacts of the system variability.</p>

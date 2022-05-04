@@ -10,12 +10,12 @@ title: UPSCALE
 ---
 
 <h2>UPSCALE - Global climate modelling at 25km atmospheric resolution</h2>
-<p><img src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/upscale_logo.jpg"></p>
+<p><img src="{{ site.baseurl }}/assets/media/uploads/Logos/upscale_logo.jpg"></p>
 <p> </p>
 <h4><em>"The UPSCALE project aims to increase the fidelity of global climate simulations and our understanding of weather and climate risk, by representing fundamental weather and climate processes more completely. This will test and enhance our confidence in projections of climate change, including extremes. Resolving weather features is vital if global climate models are to produce realistic simulations of mean climate, </em>variability <em>and extremes, particularly at regional and local scales."</em></h4>
 <h4><em></em><em>- </em><strong>Prof. Pier Luigi Vidale, project leader</strong></h4>
 <p> </p>
-<p>The UPSCALE project was a significant step forward in computer-intensive simulation of weather and climate, made possible by the Partnership for Advanced Computing in Europe (PRACE) Access Committee granting substantial computing resources to a <a href="/research/projects/jwcrp/"><strong>JWCRP</strong></a> team of researchers. UPSCALE simulations were completed in 2012, though analyses are ongoing (see recent <strong><a href="/publications/">publications</a></strong> and <strong><a href="/media/">updates</a></strong>), and the data are available for analysis at <strong><a href="http://www.ceda.ac.uk/">JASMIN/CEDA</a></strong>. For more information, please visit the <strong><a href="http://proj.badc.rl.ac.uk/upscale">UPSCALE website</a></strong>.</p>
+<p>The UPSCALE project was a significant step forward in computer-intensive simulation of weather and climate, made possible by the Partnership for Advanced Computing in Europe (PRACE) Access Committee granting substantial computing resources to a <a href="{{ site.baseurl }}/research/projects/jwcrp/"><strong>JWCRP</strong></a> team of researchers. UPSCALE simulations were completed in 2012, though analyses are ongoing (see recent <strong><a href="{{ site.baseurl }}/publications/">publications</a></strong> and <strong><a href="{{ site.baseurl }}/media/">updates</a></strong>), and the data are available for analysis at <strong><a href="http://www.ceda.ac.uk/">JASMIN/CEDA</a></strong>. For more information, please visit the <strong><a href="http://proj.badc.rl.ac.uk/upscale">UPSCALE website</a></strong>.</p>
 <p> </p>
 <h3>Animated visualisation of UPSCALE simulations</h3>
 <p><strong><a href="http://www.met.reading.ac.uk/~reinhard/public_data/V2_N512-QT.mov" target="_blank">Present climate animation at HIGH-resolution (25 km or N512)</a></strong></p>

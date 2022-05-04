@@ -9,10 +9,10 @@ permalink: /hirescl-twiki-archive-unpublished/cmip6-um-development/
 title: CMIP6 UM development
 ---
 
-<p>These pages will try and document the process of generating a suite for the CMIP6 <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HighResMIP?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="HighResMIP (this topic does not yet exist; you can create it)">HighResMIP</a></span> project, also core simulations for PRIMAVERA. <br> Initial experiment documentation at <a href="https://code.metoffice.gov.uk/trac/ukcmip6/wiki/MIPDocumentation" target="_top">https://code.metoffice.gov.uk/trac/ukcmip6/wiki/MIPDocumentation</a></p>
+<p>These pages will try and document the process of generating a suite for the CMIP6 <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HighResMIP?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="HighResMIP (this topic does not yet exist; you can create it)">HighResMIP</a></span> project, also core simulations for PRIMAVERA. <br> Initial experiment documentation at <a href="https://code.metoffice.gov.uk/trac/ukcmip6/wiki/MIPDocumentation" target="_top">https://code.metoffice.gov.uk/trac/ukcmip6/wiki/MIPDocumentation</a></p>
 <p></p>
 <h4><a name="Development of future SST and se"></a> Development of future SST and sea-ice</h4>
-<p><a class="twikiLink" href="/twiki/bin/view/Project/HiResCL/HighResMIPFutureSSTSeaiceDevelopment">HighResMIPFutureSSTSeaiceDevelopment</a></p>
+<p><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HighResMIPFutureSSTSeaiceDevelopment">HighResMIPFutureSSTSeaiceDevelopment</a></p>
 <p></p>
 <h4><a name="Requirements:"></a> Requirements:</h4>
 <ul>
@@ -37,7 +37,7 @@ title: CMIP6 UM development
 <li>Several branches are added, but may need to change STASH setup to get new ice-related diagnostics (heat fluxes etc)</li>
 </ul>
 </li>
-<li><span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span>implementation
+<li><span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span>implementation
 <ul>
 <li>Not yet</li>
 </ul>
@@ -53,7 +53,7 @@ title: CMIP6 UM development
 <li>Ozone – timeseries and repeat 1950</li>
 <li>Solar – timeseries and repeat 1950</li>
 <li>GHG concentrations – timeseries and repeat 1950</li>
-<li>SST and sea-ice from <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HadISST2?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="HadISST2 (this topic does not yet exist; you can create it)">HadISST2</a></span>(MJR)
+<li>SST and sea-ice from <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HadISST2?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="HadISST2 (this topic does not yet exist; you can create it)">HadISST2</a></span>(MJR)
 <ul>
 <li>Now have the 1940-2009 period data, test and then release this on JASMIN - ask if any demand for the pre-1950 part</li>
 </ul>
@@ -93,7 +93,7 @@ title: CMIP6 UM development
 <p></p>
 <h4><a name="Pre-requisites"></a> Pre-requisites</h4>
 <ul>
-<li>Needs preindustrial AMIP-style simulation to generate background aerosol concentration fields for use with <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span> * Which also needs new diagnostics in order to produce the <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span> climatologies - Nicholas and Steve to do this</li>
+<li>Needs preindustrial AMIP-style simulation to generate background aerosol concentration fields for use with <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span> * Which also needs new diagnostics in order to produce the <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span> climatologies - Nicholas and Steve to do this</li>
 </ul>
 <p></p>
 <h4><a name="To do"></a> To do</h4>
@@ -129,12 +129,12 @@ title: CMIP6 UM development
 </ul>
 </li>
 <li>Test IO server in atmosphere ready for N512 run</li>
-<li>For <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HadISST2?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="HadISST2 (this topic does not yet exist; you can create it)">HadISST2</a></span> SST and sea-ice, need to revision control ANTS script.</li>
+<li>For <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HadISST2?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="HadISST2 (this topic does not yet exist; you can create it)">HadISST2</a></span> SST and sea-ice, need to revision control ANTS script.</li>
 <li>However we do the ozone interpolation, need to revision control the source code, ideally using ANTS.</li>
 <li>Age tracer:
 <ul>
 <li>Restart filename needs YYYYMMDD format - I missed this from merge, now in</li>
-<li>It needs to be moved to the <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HistoryData?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="HistoryData (this topic does not yet exist; you can create it)">HistoryData</a></span> /NEMO directory at the end of the job step (post-processing?)</li>
+<li>It needs to be moved to the <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HistoryData?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="HistoryData (this topic does not yet exist; you can create it)">HistoryData</a></span> /NEMO directory at the end of the job step (post-processing?)</li>
 <li>And then check that it does indeed get read in during the next step</li>
 </ul>
 </li>
@@ -173,7 +173,7 @@ title: CMIP6 UM development
 <li>For iodef, Erica recommends that it gets checked out of moci repo for different resolutions, rather than being file in /file subdirectory. Apparently similar to STASHMASTER in GC3.</li>
 <li>Remap the geothermal file (as used in ORCA1) to all resolutions using suite (generated weights).</li>
 <li>Add STASHMASTER to atmos-only job, for stash 208 and to allow processing of SIMIP diagnostics</li>
-<li>Need N512 version of /data/d01/frjy/AEROSOL_EMS/DMS/Lana_DMS_ocean_N96_eg.N96 (or Lana_DMS_ocean_N216_eg.N96) - don't since <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span>does not use this
+<li>Need N512 version of /data/d01/frjy/AEROSOL_EMS/DMS/Lana_DMS_ocean_N96_eg.N96 (or Lana_DMS_ocean_N216_eg.N96) - don't since <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span>does not use this
 <ul>
 <li>Added this into the /data/d05/hadom/ancil/data/ancil_versions/n96e_orca025/GA7.1_CMIP6_HRMIP/v1/ancils file, and linked /data/d05/hadom/ancil/atmos/n96e/orca025_cmip6/AEROSOL_EMS/DMS/qrclim.sulpdms to the above file (I really don't want to have the suite be specific to a resolution/dataset)</li>
 </ul>
@@ -200,9 +200,9 @@ title: CMIP6 UM development
 </ul>
 <p></p>
 <ul>
-<li><span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span> changes summarised in: (Nicolas' job ac283 vs af207): <a href="https://code.metoffice.gov.uk/trac/roses-u/changeset?reponame=&amp;new=18134%40a%2Ff%2F2%2F0%2F7%2Ftrunk&amp;old=13252%40a%2Fc%2F2%2F8%2F3%2Ftrunk" target="_top">https://code.metoffice.gov.uk/trac/roses-u/changeset?reponame=&amp;new=18134%40a%2Ff%2F2%2F0%2F7%2Ftrunk&amp;old=13252%40a%2Fc%2F2%2F8%2F3%2Ftrunk</a> ; my job(on top of GA7.1 changes, af746 vs af770): <a href="https://code.metoffice.gov.uk/trac/roses-u/changeset?reponame=&amp;new=18426%40a%2Ff%2F7%2F7%2F0%2Ftrunk&amp;old=18325%40a%2Ff%2F7%2F4%2F6%2Ftrunk" target="_top">https://code.metoffice.gov.uk/trac/roses-u/changeset?reponame=&amp;new=18426%40a%2Ff%2F7%2F7%2F0%2Ftrunk&amp;old=18325%40a%2Ff%2F7%2F4%2F6%2Ftrunk</a>
+<li><span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span> changes summarised in: (Nicolas' job ac283 vs af207): <a href="https://code.metoffice.gov.uk/trac/roses-u/changeset?reponame=&amp;new=18134%40a%2Ff%2F2%2F0%2F7%2Ftrunk&amp;old=13252%40a%2Fc%2F2%2F8%2F3%2Ftrunk" target="_top">https://code.metoffice.gov.uk/trac/roses-u/changeset?reponame=&amp;new=18134%40a%2Ff%2F2%2F0%2F7%2Ftrunk&amp;old=13252%40a%2Fc%2F2%2F8%2F3%2Ftrunk</a> ; my job(on top of GA7.1 changes, af746 vs af770): <a href="https://code.metoffice.gov.uk/trac/roses-u/changeset?reponame=&amp;new=18426%40a%2Ff%2F7%2F7%2F0%2Ftrunk&amp;old=18325%40a%2Ff%2F7%2F4%2F6%2Ftrunk" target="_top">https://code.metoffice.gov.uk/trac/roses-u/changeset?reponame=&amp;new=18426%40a%2Ff%2F7%2F7%2F0%2Ftrunk&amp;old=18325%40a%2Ff%2F7%2F4%2F6%2Ftrunk</a>
 <ul>
-<li>note I had to make a merge of SIMIP and <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span> branches in order to get a merged STASHmaster file, and meta data change for rose: vn10.4_merge_SIMIP_EasyAerosol_stashmaster</li>
+<li>note I had to make a merge of SIMIP and <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/EasyAerosol?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="EasyAerosol (this topic does not yet exist; you can create it)">EasyAerosol</a></span> branches in order to get a merged STASHmaster file, and meta data change for rose: vn10.4_merge_SIMIP_EasyAerosol_stashmaster</li>
 <li>Advised by Erica, I have made the job use the STASHmaster on the repo and it should check it out - but I will also keep a copy locally for the data request processing</li>
 </ul>
 </li>
@@ -393,7 +393,7 @@ title: CMIP6 UM development
 <li>Do we really need 3D short wave penetration, or is this more for biology?</li>
 </ul>
 </li>
-<li>Note: may need to make sure the restart file for the age tracer gets moved to the <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HistoryData?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="HistoryData (this topic does not yet exist; you can create it)">HistoryData</a></span> /NEMO directory, and tidued up or archived as appropriate.</li>
+<li>Note: may need to make sure the restart file for the age tracer gets moved to the <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HistoryData?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="HistoryData (this topic does not yet exist; you can create it)">HistoryData</a></span> /NEMO directory, and tidued up or archived as appropriate.</li>
 <li>Question - does the 1d files get archived, or will this need adding? May also be true for the CICE 1d files.</li>
 <li>Also scalar output files like ae344o_10d_19780901_19780910_scalar_19780901-19780910_0000.nc - do they need archiving too?</li>
 <li>Need to remember to change the iodef file for ORCA1 in order to include the GM advection
@@ -494,7 +494,7 @@ title: CMIP6 UM development
 <li>Make sure that the COSP_LIDAR ones are switched off (also the new ones of these from CMIP6) - using optional files, need to do explicitly in package</li>
 <li>Model failed at 3 hours - suspect a 3hr diagnostic, either mean or instant. The last stash code written is 0409, the last line in one of the pe files is about setting up Fv matrix for filtered output
 <ul>
-<li>Switching off the 30457 (3hr, <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/PLEV7H?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="PLEV7H (this topic does not yet exist; you can create it)">PLEV7H</a></span> ) allowed the model to run to 6 hours. Then switched off rest of 30455-30458 - then model runs to 1 day and fails with COEX error</li>
+<li>Switching off the 30457 (3hr, <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/PLEV7H?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="PLEV7H (this topic does not yet exist; you can create it)">PLEV7H</a></span> ) allowed the model to run to 6 hours. Then switched off rest of 30455-30458 - then model runs to 1 day and fails with COEX error</li>
 <li>The last stash printed is 5206, so this packing error seems to be on this or the next (5208 is on again, switch off)</li>
 </ul>
 </li>
@@ -506,7 +506,7 @@ title: CMIP6 UM development
 <ul>
 <li>At this point I ran suite u-ae660 for 1 year with the Priority 1 (Met Office agreed) diagnostic list, and this worked OK.</li>
 <li>A meeting to discuss the CMIP6 output recommended to produce instantaneous heaviside output as well, so need to keep this switched on</li>
-<li>Model failed with xios error writing diaptr variable zosrfglo - indeed the zonal mean surface does seem to have strange values at the bottom in this (and other) runs. Is it a <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/NaN?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="NaN (this topic does not yet exist; you can create it)">NaN</a></span> issue too?</li>
+<li>Model failed with xios error writing diaptr variable zosrfglo - indeed the zonal mean surface does seem to have strange values at the bottom in this (and other) runs. Is it a <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/NaN?topicparent=Project/HiResCL.CMIP6HighResMIPmain" rel="nofollow" title="NaN (this topic does not yet exist; you can create it)">NaN</a></span> issue too?</li>
 </ul>
 <p></p>
 <h4><a name="Post-processing"></a> Post-processing</h4>

@@ -29,21 +29,21 @@ title: Web links
 <h5>National Centre for <span>Atmospheric Science</span></h5>
 </td>
 <td>   <a href="http://www.ncas.ac.uk" target="_blank">www.ncas.ac.uk</a></td>
-<td>       <a href="https://twitter.com/AtmosScience" target="_blank"><img height="18" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/twitter_mini.png" width="18"></a><a href="https://twitter.com/AtmosScience" target="_blank">@AtmosScience</a>  </td>
+<td>       <a href="https://twitter.com/AtmosScience" target="_blank"><img height="18" src="{{ site.baseurl }}/assets/media/uploads/Logos/twitter_mini.png" width="18"></a><a href="https://twitter.com/AtmosScience" target="_blank">@AtmosScience</a>  </td>
 </tr>
 <tr>
 <td>
 <h5>Met Office Hadley Centre</h5>
 </td>
 <td>   <a href="http://www.metoffice.gov.uk" target="_blank">www.metoffice.gov.uk</a></td>
-<td>       <a href="https://twitter.com/MetOffice_Sci" target="_blank"><img height="18" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/twitter_mini.png" width="18"></a><a href="https://twitter.com/MetOffice_Sci" target="_blank">@MetOffice_Sci</a></td>
+<td>       <a href="https://twitter.com/MetOffice_Sci" target="_blank"><img height="18" src="{{ site.baseurl }}/assets/media/uploads/Logos/twitter_mini.png" width="18"></a><a href="https://twitter.com/MetOffice_Sci" target="_blank">@MetOffice_Sci</a></td>
 </tr>
 <tr>
 <td>
 <h5>Department of Meteorology, <span>University of Reading        </span></h5>
 </td>
 <td>   <a href="http://www.met.reading.ac.uk" target="_blank">www.met.reading.ac.uk</a>           </td>
-<td>       <a href="https://twitter.com/unirdg_met" target="_blank"><img height="18" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/twitter_mini.png" width="18"></a><a href="https://twitter.com/unirdg_met" target="_blank">@UniRdg_Met</a></td>
+<td>       <a href="https://twitter.com/unirdg_met" target="_blank"><img height="18" src="{{ site.baseurl }}/assets/media/uploads/Logos/twitter_mini.png" width="18"></a><a href="https://twitter.com/unirdg_met" target="_blank">@UniRdg_Met</a></td>
 </tr>
 </tbody>
 </table>
@@ -75,7 +75,7 @@ title: Web links
 <h5>Reinhard Schiemann, Senior Research Scientist</h5>
 </td>
 <td>   <a href="http://www.met.rdg.ac.uk/~reinhard/home/" target="_blank">www.met.rdg.ac.uk/reinhard</a>        </td>
-<td>   <a href="https://twitter.com/Len_Shaffrey" target="_blank"><img height="18" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/twitter_mini.png" width="18"></a> <a href="https://twitter.com/reinhardkh" target="_blank">@reinhardkh</a></td>
+<td>   <a href="https://twitter.com/Len_Shaffrey" target="_blank"><img height="18" src="{{ site.baseurl }}/assets/media/uploads/Logos/twitter_mini.png" width="18"></a> <a href="https://twitter.com/reinhardkh" target="_blank">@reinhardkh</a></td>
 </tr>
 <tr>
 <td>
@@ -89,7 +89,7 @@ title: Web links
 <h5>Len Shaffrey, Professor of Climate Science</h5>
 </td>
 <td>   <a href="http://www.met.reading.ac.uk/~swrshaff">www.met.rdg.ac.uk/shaffrey</a></td>
-<td>   <a href="https://twitter.com/Len_Shaffrey" target="_blank"><img height="18" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/twitter_mini.png" width="18"></a><a href="https://twitter.com/Len_Shaffrey" target="_blank">@Len_Shaffrey</a>   </td>
+<td>   <a href="https://twitter.com/Len_Shaffrey" target="_blank"><img height="18" src="{{ site.baseurl }}/assets/media/uploads/Logos/twitter_mini.png" width="18"></a><a href="https://twitter.com/Len_Shaffrey" target="_blank">@Len_Shaffrey</a>   </td>
 </tr>
 <tr>
 <td>
@@ -103,7 +103,7 @@ title: Web links
 <h5>Alexander Baker, Research Scientist</h5>
 </td>
 <td>   <a href="https://alexbakey.wordpress.com" target="_blank">alexbakey.wordpress.com</a></td>
-<td>   <a href="https://twitter.com/alexbakey" target="_blank"><img height="18" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/twitter_mini.png" width="18"></a><a href="https://twitter.com/alexbakey" target="_blank">@alexbakey</a></td>
+<td>   <a href="https://twitter.com/alexbakey" target="_blank"><img height="18" src="{{ site.baseurl }}/assets/media/uploads/Logos/twitter_mini.png" width="18"></a><a href="https://twitter.com/alexbakey" target="_blank">@alexbakey</a></td>
 </tr>
 <tr>
 <td>

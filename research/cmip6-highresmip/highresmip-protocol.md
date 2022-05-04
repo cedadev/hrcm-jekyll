@@ -26,7 +26,7 @@ title: HighResMIP protocol
 <h4>Tier 3: Forced-atmosphere 2015-2050 (2100)</h4>
 <p>2015-2050 (2100)  Experiment name: highresSST-future</p>
 <p></p>
-<p><img height="450" src="/hrcm/static/media/uploads/HighResMIP_images/highresmip_simulation_diagram_2019.png" width="800"></p>
+<p><img height="450" src="{{ site.baseurl }}/assets/media/uploads/HighResMIP_images/highresmip_simulation_diagram_2019.png" width="800"></p>
 <p></p>
 <p>Motivation of these three Tiers</p>
 <p></p>

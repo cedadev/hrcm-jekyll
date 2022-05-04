@@ -62,7 +62,7 @@ title: Collaborations
 <li>Young-Oh Kwon and Rhys Parfitt (WHOI) - looking at storms and SST front, extending from atmosphere only to coupled models</li>
 <li>Parfitt et al 2016, GRL - dx.doi.org/10.1002/2016GL067723</li>
 <li>Given hourly SST, latent and sensible heat flux data, and 6 hourly atmospheric U,V,T at 925hPa (initially 1 year of data to test)</li>
-<li>planning an NSF proposal relating to <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HighResMIP?topicparent=Project/HiResCL.Collaborations" rel="nofollow" title="HighResMIP (this topic does not yet exist; you can create it)">HighResMIP</a></span>
+<li>planning an NSF proposal relating to <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HighResMIP?topicparent=Project/HiResCL.Collaborations" rel="nofollow" title="HighResMIP (this topic does not yet exist; you can create it)">HighResMIP</a></span>
 <ul>
 <li>understand the link between this mechanism of storm-SST front interaction (and its dependency on the model resolutions) and the basin-scale climate variability such as NAO</li>
 <li>we could be an external collaborator</li>
@@ -75,7 +75,7 @@ title: Collaborations
 </ul>
 <p></p>
 <ul>
-<li>Joint <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/PhD?topicparent=Project/HiResCL.Collaborations" rel="nofollow" title="PhD (this topic does not yet exist; you can create it)">PhD</a></span>student Sarah Hallam (supervisor Joel Hirschi and Pat Hyder)
+<li>Joint <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/PhD?topicparent=Project/HiResCL.Collaborations" rel="nofollow" title="PhD (this topic does not yet exist; you can create it)">PhD</a></span>student Sarah Hallam (supervisor Joel Hirschi and Pat Hyder)
 <ul>
 <li>MOC and its atmospherc impacts at different resolutions</li>
 </ul>

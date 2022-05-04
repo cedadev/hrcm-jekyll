@@ -4,56 +4,26 @@
         <div class="widget">
             <h5 class="widgetheading">Recent Posts</h5>
             <ul class="recent">
-
-                <li>
-                    <img class="pull-left" alt="" src="/hrcm/static/media/">
-                    <h6><a href="/blog/plot-of-the-month-mar-2019-10km-global-modelling/"
-                        >Plot of the month (Mar 2019): 10km global modelling</a>
-                    </h6>
-                </li>
-
-                <li>
-                    <img class="pull-left" alt="" src="/hrcm/static/media/">
-                    <h6><a href="/blog/plot-of-the-month-feb-2018-atmospheric-blocking-storymap/"
-                        >Plot of the month (Feb 2018): atmospheric blocking &#x27;storymap&#x27;</a>
-                    </h6>
-                </li>
-
-                <li>
-                    <img class="pull-left" alt="" src="/hrcm/static/media/">
-                    <h6><a href="/blog/plot-of-the-month-jan-2018-heavy-precipitation-from-cyclones/"
-                        >Plot of the month (Jan 2018): heavy precipitation from cyclones</a>
-                    </h6>
-                </li>
-
-                <li>
-                    <img class="pull-left" alt="" src="/hrcm/static/media/">
-                    <h6><a href="/blog/plot-of-the-month-dec-2017-hrcm-publications-update/"
-                        >Plot of the month (Dec 2017): HRCM publications update</a>
-                    </h6>
-                </li>
-
-                <li>
-                    <img class="pull-left" alt="" src="/hrcm/static/media/">
-                    <h6><a href="/blog/plot-of-the-month-nov-2017-extratropical-storm-in-a-25km-model/"
-                        >Plot of the month (Nov 2017): extratropical storm in a 25km model</a>
-                    </h6>
-                </li>
-
+                {% for p in site.posts limit:5 %}
+                    <li>
+                        <img class="pull-left" alt="" src="/hrcm/static/media/">
+                        <h6><a href="{{ site.baseurl }}/{{ p.url }}"
+                            >{{ p.title }}</a>
+                        </h6>
+                    </li>
+                {% endfor %}
             </ul>
         </div>
 
         <div class="widget">
             <h5 class="widgetheading">Authors</h5>
             <ul class="cat">
-
-                <li><a href="/blog/author/malcolm/"
-                    >Malcolm Roberts (1)</a>
-                    </li>
-                
-                <li><a href="/blog/author/alex/"
-                    >Alexander Baker (20)</a>
-                    </li>
+                {% for author in site.data.authors %}
+                    {% assign author_posts = site.posts | where: "author", author.user %}
+                    <li><a href="{{ site.baseurl }}/blog/author/{{ author.user }}">
+                        {{ author.name }} ({{ author_posts.size }})
+                    </a></li>
+                {% endfor %}
             </ul>
         </div>
 

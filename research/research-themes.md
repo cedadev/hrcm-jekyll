@@ -14,12 +14,12 @@ title: Research themes
 <p>________________________________________________________________________________________________</p>
 <h1>Contents</h1>
 <p> </p>
-<h4><a href="/research/research-themes/atmosphere-ocean-interactions/">Atmosphere-ocean interactions</a></h4>
-<h4><a href="/research/research-themes/dust-and-radiation/">Dust and radiation</a></h4>
-<h4><a href="/research/research-themes/enso/">El Niño</a></h4>
-<h4><a href="/research/research-themes/extratropical-storms/">Extratropical storms</a></h4>
-<h4><a href="/research/research-themes/extremes-and-catastrophe-modelling/">Extremes and catastrophe modelling</a></h4>
-<h4><a href="/research/research-themes/hydrological-cycle/">Hydrological cycle</a></h4>
-<h4><a href="/research/research-themes/land-surface-processes/">Land surface processes</a></h4>
-<h4><a href="/research/research-themes/tropical-cyclones/">Tropical cyclones</a></h4>
-<h4><a href="/research/research-themes/tropical-instability-waves/">Tropical instability waves</a></h4>
+<h4><a href="{{ site.baseurl }}/research/research-themes/atmosphere-ocean-interactions/">Atmosphere-ocean interactions</a></h4>
+<h4><a href="{{ site.baseurl }}/research/research-themes/dust-and-radiation/">Dust and radiation</a></h4>
+<h4><a href="{{ site.baseurl }}/research/research-themes/enso/">El Niño</a></h4>
+<h4><a href="{{ site.baseurl }}/research/research-themes/extratropical-storms/">Extratropical storms</a></h4>
+<h4><a href="{{ site.baseurl }}/research/research-themes/extremes-and-catastrophe-modelling/">Extremes and catastrophe modelling</a></h4>
+<h4><a href="{{ site.baseurl }}/research/research-themes/hydrological-cycle/">Hydrological cycle</a></h4>
+<h4><a href="{{ site.baseurl }}/research/research-themes/land-surface-processes/">Land surface processes</a></h4>
+<h4><a href="{{ site.baseurl }}/research/research-themes/tropical-cyclones/">Tropical cyclones</a></h4>
+<h4><a href="{{ site.baseurl }}/research/research-themes/tropical-instability-waves/">Tropical instability waves</a></h4>

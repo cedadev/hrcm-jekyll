@@ -81,4 +81,4 @@ title: CMIP6 HighResMIP
 <p>Rein Haarsma (haarsma @ knmi.nl)</p>
 <p>Malcolm Roberts (malcolm.roberts @ metoffice.gov.uk)</p>
 <p></p>
-<p><img height="1090" src="/hrcm/static/media/uploads/HighResMIP_images/highresmip_icon.png" width="405"></p>
+<p><img height="1090" src="{{ site.baseurl }}/assets/media/uploads/HighResMIP_images/highresmip_icon.png" width="405"></p>

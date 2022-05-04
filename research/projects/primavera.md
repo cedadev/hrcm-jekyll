@@ -7,7 +7,7 @@ permalink: /research/projects/primavera/
 title: PRIMAVERA
 ---
 
-<p><img height="100" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/primavera_black.png"></p>
+<p><img height="100" src="{{ site.baseurl }}/assets/media/uploads/Logos/primavera_black.png"></p>
 <p> </p>
 <h4>PRIMAVERA is a European Union Horizon2020 project which aims "to develop a new generation of advanced and well-evaluated high-resolution global climate models, capable of simulating and predicting regional climate with unprecedented fidelity, for the benefit of governments, business and society in general."</h4>
 <p> </p>
@@ -40,7 +40,7 @@ title: PRIMAVERA
 <p>This meeting addressed:</p>
 <ul>
 <li>Presentations on initial Stream 1 simulation analyses, including model biases, heat and freshwater transport, mid-latitude jet and storm track, cyclones, air-sea coupling, hydrological cycle, Gulf Stream, deep water formation, AMO/AMOC, teleconnections, Arctic snow and sea ice, model complexity, climate risk assessment, and stakeholder engagement.</li>
-<li>Future collaboration with <a href="/research/projects/us-clivar/"><strong>U.S. CLIVAR</strong></a></li>
+<li>Future collaboration with <a href="{{ site.baseurl }}/research/projects/us-clivar/"><strong>U.S. CLIVAR</strong></a></li>
 <li>Strengthening the links between institutions working in complementary topics within PRIMAVERA</li>
 </ul>
 <p><strong>More detail, including the full programme of presentations, may be found on the <a href="https://www.primavera-h2020.eu/general-assembly-3/">PRIMAVERA website</a>.</strong></p>

@@ -130,20 +130,20 @@ List any problems and solutions when running <code>ts_model</code>here:
 <h2><a name="8. Contact"></a> 8. Contact</h2>
 If you have any problems setting up the code then please contact <a href="mailto:joanne.camp@metoffice.gov.uk">Joanne Camp</a>.
 <p></p>
--- <a class="twikiLink" href="/twiki/bin/view/Main/JoanneCamp">JoanneCamp</a>- 04 Jun 2014
+-- <a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/JoanneCamp">JoanneCamp</a>- 04 Jun 2014
 <p></p>
 <p></p>
--- <a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a> - 2014-12-13</div>
+-- <a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a> - 2014-12-13</div>
 <!-- /patternTopic-->
 <div class="twikiContentFooter"></div>
 </div>
 <!-- /patternContent--> <a name="topic-actions"></a>
 <div class="patternTopicActions">
-<div class="patternTopicAction"><span class="patternActionButtons"><span><a accesskey="e" href="https://collab.metoffice.gov.uk/twiki/bin/edit/Project/HiResCL/TS_model?t=1601310291" rel="nofollow" title="Edit this topic text"><span class="twikiAccessKey">E</span>dit</a></span><span class="twikiSeparator"> | </span><span><a accesskey="a" href="/twiki/bin/attach/Project/HiResCL/TS_model" rel="nofollow" title="Attach an image or document to this topic"><span class="twikiAccessKey">A</span>ttach</a></span><span class="twikiSeparator"> | </span><span><a accesskey="p" href="/twiki/bin/view/Project/HiResCL/TS_model?cover=print" rel="nofollow" title="Printable version of this topic"><span class="twikiAccessKey">P</span>rint version</a></span><span class="twikiSeparator"> | </span><span><span><a accesskey="h" href="/twiki/bin/rdiff/Project/HiResCL/TS_model?type=history" rel="nofollow" title="View total topic history"><span class="twikiAccessKey">H</span>istory</a></span>: r1</span><span class="twikiSeparator"> | </span><span><a accesskey="b" href="/twiki/bin/oops/Project/HiResCL/TS_model?template=backlinksweb" rel="nofollow" title="Search the Project/HiResCL Web for topics that link to here"><span class="twikiAccessKey">B</span>acklinks</a></span><span class="twikiSeparator"> | </span><span><a accesskey="r" href="/twiki/bin/view/Project/HiResCL/TS_model?raw=on" rel="nofollow" title="View raw text without formatting"><span class="twikiAccessKey">R</span>aw View</a></span><span class="twikiSeparator"> | </span><span><a accesskey="w" href="https://collab.metoffice.gov.uk/twiki/bin/edit/Project/HiResCL/TS_model?t=1601310291;nowysiwyg=1" rel="nofollow" title="Raw Edit this topic text">Ra<span class="twikiAccessKey">w</span> edit</a></span><span class="twikiSeparator"> | </span><span><a accesskey="m" href="/twiki/bin/oops/Project/HiResCL/TS_model?template=oopsmore&amp;param1=1&amp;param2=1" rel="nofollow" title="Delete or rename this topic; set parent topic; view and compare revisions"><span class="twikiAccessKey">M</span>ore topic actions</a></span></span></div>
+<div class="patternTopicAction"><span class="patternActionButtons"><span><a accesskey="e" href="https://collab.metoffice.gov.uk/twiki/bin/edit/Project/HiResCL/TS_model?t=1601310291" rel="nofollow" title="Edit this topic text"><span class="twikiAccessKey">E</span>dit</a></span><span class="twikiSeparator"> | </span><span><a accesskey="a" href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/TS_model" rel="nofollow" title="Attach an image or document to this topic"><span class="twikiAccessKey">A</span>ttach</a></span><span class="twikiSeparator"> | </span><span><a accesskey="p" href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/TS_model?cover=print" rel="nofollow" title="Printable version of this topic"><span class="twikiAccessKey">P</span>rint version</a></span><span class="twikiSeparator"> | </span><span><span><a accesskey="h" href="{{ site.baseurl }}/twiki/bin/rdiff/Project/HiResCL/TS_model?type=history" rel="nofollow" title="View total topic history"><span class="twikiAccessKey">H</span>istory</a></span>: r1</span><span class="twikiSeparator"> | </span><span><a accesskey="b" href="{{ site.baseurl }}/twiki/bin/oops/Project/HiResCL/TS_model?template=backlinksweb" rel="nofollow" title="Search the Project/HiResCL Web for topics that link to here"><span class="twikiAccessKey">B</span>acklinks</a></span><span class="twikiSeparator"> | </span><span><a accesskey="r" href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/TS_model?raw=on" rel="nofollow" title="View raw text without formatting"><span class="twikiAccessKey">R</span>aw View</a></span><span class="twikiSeparator"> | </span><span><a accesskey="w" href="https://collab.metoffice.gov.uk/twiki/bin/edit/Project/HiResCL/TS_model?t=1601310291;nowysiwyg=1" rel="nofollow" title="Raw Edit this topic text">Ra<span class="twikiAccessKey">w</span> edit</a></span><span class="twikiSeparator"> | </span><span><a accesskey="m" href="{{ site.baseurl }}/twiki/bin/oops/Project/HiResCL/TS_model?template=oopsmore&amp;param1=1&amp;param2=1" rel="nofollow" title="Delete or rename this topic; set parent topic; view and compare revisions"><span class="twikiAccessKey">M</span>ore topic actions</a></span></span></div>
 <!--/patternTopicAction--></div>
 <!--/patternTopicActions-->
 <div class="patternInfo twikiGrayText">
-<div class="patternRevInfo">Topic revision: r1 - 2014-12-13 - 17:51:23 - <a class="twikiLink" href="/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></div>
+<div class="patternRevInfo">Topic revision: r1 - 2014-12-13 - 17:51:23 - <a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/MalcolmRoberts">MalcolmRoberts</a></div>
 <!-- /patternRevInfo-->
 <div class="patternMoved"></div>
 <!-- /patternMoved--></div>
@@ -155,7 +155,7 @@ If you have any problems setting up the code then please contact <a href="mailto
 <div id="patternLeftBarContents">
 <div class="patternWebIndicator">
 <ul>
-<li><a class="twikiCurrentWebHomeLink twikiLink" href="/twiki/bin/view/Project/HiResCL/WebHome"><img align="top" alt="web-bg-small" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/web-bg-small.gif" width="16"> Project/HiResCL</a></li>
+<li><a class="twikiCurrentWebHomeLink twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/WebHome"><img align="top" alt="web-bg-small" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/web-bg-small.gif" width="16"> Project/HiResCL</a></li>
 </ul>
 </div>
 </div>

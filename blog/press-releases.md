@@ -12,4 +12,4 @@ title: Recent press releases
 <p><strong><a href="http://www.metoffice.gov.uk/research/news/2016/understanding-sahel-rain"></a></strong><strong>(Met Office press release for <a href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/2015GL066690/abstract">Vellinga <em>et al</em>., 2016</a></strong><strong>)</strong></p>
 <p> </p>
 <h3><a href="http://www.metoffice.gov.uk/research/news/upscale" target="_blank"><strong>Project UPSCALE: JWCRP research team wins major European computing resources for global climate modelling</strong></a></h3>
-<p><strong><strong>(Met Office press release for <a href="/research/projects/upscale/">UPSCALE</a>)</strong></strong></p>
+<p><strong><strong>(Met Office press release for <a href="{{ site.baseurl }}/research/projects/upscale/">UPSCALE</a>)</strong></strong></p>

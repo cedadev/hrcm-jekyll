@@ -73,7 +73,7 @@ title: Comparison and Evaluation of Global Precipitation (UJCC, HiGEM, HadGEM3 m
 <p></p>
 <table border="1" cellpadding="0" cellspacing="0" class="twikiTable" id="table1" rules="rows">
 <tbody>
-<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol twikiLastCol" valign="top"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=0;table=1;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">Global</span></a></th></tr>
+<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol twikiLastCol" valign="top"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=0;table=1;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">Global</span></a></th></tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td class="twikiTableCol0 twikiFirstCol twikiLastCol" valign="top"><img alt="global precipitation averages" height="666" src="http://collab.metoffice.gov.uk/twiki/pub/Project/HiResCL/HiResCLPrecipEval/avglob.global.jpg" title="global precipitation averages" width="1000"></td>
 </tr>
@@ -91,7 +91,7 @@ title: Comparison and Evaluation of Global Precipitation (UJCC, HiGEM, HadGEM3 m
 <h2><a name="3. Zonal means"></a> 3. Zonal means</h2>
 <table border="1" cellpadding="0" cellspacing="0" class="twikiTable" id="table2" rules="rows">
 <tbody>
-<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol twikiLastCol" valign="top"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=0;table=2;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">UJCC, HiGEM</span></a></th></tr>
+<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol twikiLastCol" valign="top"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=0;table=2;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">UJCC, HiGEM</span></a></th></tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td class="twikiTableCol0 twikiFirstCol twikiLastCol" valign="top"><img alt="zmls.annual.UJCCHiGEM.png" height="314" src="http://collab.metoffice.gov.uk/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zmls.annual.UJCCHiGEM.png" title="zmls.annual.UJCCHiGEM.png" width="1000"></td>
 </tr>
@@ -109,7 +109,7 @@ title: Comparison and Evaluation of Global Precipitation (UJCC, HiGEM, HadGEM3 m
 <h2><a name="4. Model and observation 'climat"></a> 4. Model and observation 'climatologies', model biases, model-model differences</h2>
 <table border="1" cellpadding="0" cellspacing="0" class="twikiTable" id="table3" rules="rows">
 <tbody>
-<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol" valign="top"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=0;table=3;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">Relative biases</span></a></th><th class="twikiTableCol1 twikiLastCol" valign="top"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=1;table=3;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">Absolute biases</span></a></th></tr>
+<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol" valign="top"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=0;table=3;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">Relative biases</span></a></th><th class="twikiTableCol1 twikiLastCol" valign="top"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=1;table=3;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">Absolute biases</span></a></th></tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td class="twikiTableCol0 twikiFirstCol" colspan="2" valign="top">Year</td>
 </tr>
@@ -158,7 +158,7 @@ title: Comparison and Evaluation of Global Precipitation (UJCC, HiGEM, HadGEM3 m
 <p>The plots show the spatial RMSE (left) and spatial correlation (right) of the model long-term mean against the GPCP21 observations. For each model, these skill measures are calculated separately for the tropics and extratropics, as shown by the scatterplots.</p>
 <table border="1" cellpadding="0" cellspacing="0" class="twikiTable" id="table4" rules="rows">
 <tbody>
-<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol" valign="top"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=0;table=4;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">Spatial RMSE (mm/d)</span></a></th><th class="twikiTableCol1 twikiLastCol" valign="top"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=1;table=4;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">Spatial correlation</span></a></th></tr>
+<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol" valign="top"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=0;table=4;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">Spatial RMSE (mm/d)</span></a></th><th class="twikiTableCol1 twikiLastCol" valign="top"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=1;table=4;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#ffffff" style="">Spatial correlation</span></a></th></tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td class="twikiTableCol0 twikiFirstCol" valign="top">Year</td>
 <td class="twikiTableCol1 twikiLastCol" valign="top"> </td>
@@ -172,7 +172,7 @@ title: Comparison and Evaluation of Global Precipitation (UJCC, HiGEM, HadGEM3 m
 <p></p>
 <h2><a name="Comments / feedback"></a> Comments / feedback</h2>
 <p></p>
-<p>-- <a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a> - 2011-03-18</p>
+<p>-- <a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a> - 2011-03-18</p>
 <!-- /patternTopic-->
 <div class="twikiContentFooter"></div>
 <div class="twikiAttachments">
@@ -182,258 +182,258 @@ title: Comparison and Evaluation of Global Precipitation (UJCC, HiGEM, HadGEM3 m
 <div class="twistyRememberSetting twistyContent twistyInited1" id="topicattachmentslisttoggle">
 <table border="1" cellpadding="0" cellspacing="0" class="twikiTable" id="twikiAttachmentsTable" rules="rows" summary="Topic attachments"><caption>Topic attachments</caption>
 <tbody>
-<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=0;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">I</span></a></th><th class="twikiTableCol1" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=1;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Attachment</span></a></th><th class="twikiTableCol2" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=2;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Action</span></a></th><th class="twikiTableCol3" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=3;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Size</span></a></th><th class="twikiTableCol4" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=4;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Date</span></a></th><th class="twikiTableCol5" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=5;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Who</span></a></th><th class="twikiTableCol6 twikiLastCol" valign="middle"><a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=6;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Comment</span></a></th></tr>
+<tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0"><th class="twikiTableCol0 twikiFirstCol" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=0;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">I</span></a></th><th class="twikiTableCol1" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=1;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Attachment</span></a></th><th class="twikiTableCol2" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=2;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Action</span></a></th><th class="twikiTableCol3" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=3;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Size</span></a></th><th class="twikiTableCol4" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=4;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Date</span></a></th><th class="twikiTableCol5" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=5;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Who</span></a></th><th class="twikiTableCol6 twikiLastCol" valign="middle"><a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?sortcol=6;table=5;up=0#sorted_table" rel="nofollow" title="Sort by this column"><span color="#0066cc" style="">Comment</span></a></th></tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/annual_bivmap_gN48_absdiff.png">annual_bivmap_gN48_absdiff.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=annual_bivmap_gN48_absdiff.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/annual_bivmap_gN48_absdiff.png">annual_bivmap_gN48_absdiff.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=annual_bivmap_gN48_absdiff.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">1550.4 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 14:50</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">annual climatologies and absolute biases</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/annual_bivmap_gN48_reldiff.png">annual_bivmap_gN48_reldiff.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=annual_bivmap_gN48_reldiff.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/annual_bivmap_gN48_reldiff.png">annual_bivmap_gN48_reldiff.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=annual_bivmap_gN48_reldiff.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">1479.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 14:53</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">annual climatologies and relative biases</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="jpg" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/jpg.gif" width="16"><span class="twikiHidden">jpg</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/avglob.extrop.jpg">avglob.extrop.jpg</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=avglob.extrop.jpg;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/avglob.extrop.jpg">avglob.extrop.jpg</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=avglob.extrop.jpg;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">205.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 11:36</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">precipitation averages, extratropics</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="jpg" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/jpg.gif" width="16"><span class="twikiHidden">jpg</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/avglob.global.jpg">avglob.global.jpg</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=avglob.global.jpg;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/avglob.global.jpg">avglob.global.jpg</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=avglob.global.jpg;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">203.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 11:35</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">precipitation averages, global</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="jpg" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/jpg.gif" width="16"><span class="twikiHidden">jpg</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/avglob.tropics.jpg">avglob.tropics.jpg</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=avglob.tropics.jpg;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/avglob.tropics.jpg">avglob.tropics.jpg</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=avglob.tropics.jpg;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">210.0 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 11:36</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">precipitation averages, extratropics</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/regpl.corr.annual.png">regpl.corr.annual.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=regpl.corr.annual.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/regpl.corr.annual.png">regpl.corr.annual.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=regpl.corr.annual.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">156.0 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 18:22</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">annual spatial correlation (extratropics vs. tropics)</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/regpl.rmsex.annual.png">regpl.rmsex.annual.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=regpl.rmsex.annual.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/regpl.rmsex.annual.png">regpl.rmsex.annual.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=regpl.rmsex.annual.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">149.3 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 18:22</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">annual RMSE (extratropics vs. tropics)</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_absdiff_DJF.png">seasonal_bivmap_gN48_absdiff_DJF.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_absdiff_DJF.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_absdiff_DJF.png">seasonal_bivmap_gN48_absdiff_DJF.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_absdiff_DJF.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">1575.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 14:54</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">DJF climatologies and absolute biases</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_absdiff_JJA.png">seasonal_bivmap_gN48_absdiff_JJA.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_absdiff_JJA.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_absdiff_JJA.png">seasonal_bivmap_gN48_absdiff_JJA.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_absdiff_JJA.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">1605.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 14:55</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">JJA climatologies and absolute biases</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_absdiff_MAM.png">seasonal_bivmap_gN48_absdiff_MAM.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_absdiff_MAM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_absdiff_MAM.png">seasonal_bivmap_gN48_absdiff_MAM.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_absdiff_MAM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">1550.0 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 14:55</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">MAM climatologies and absolute biases</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_absdiff_SON.png">seasonal_bivmap_gN48_absdiff_SON.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_absdiff_SON.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_absdiff_SON.png">seasonal_bivmap_gN48_absdiff_SON.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_absdiff_SON.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">1560.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 14:56</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top"> </td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_reldiff_DJF.png">seasonal_bivmap_gN48_reldiff_DJF.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_reldiff_DJF.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_reldiff_DJF.png">seasonal_bivmap_gN48_reldiff_DJF.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_reldiff_DJF.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">1548.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 14:57</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">DJF climatologies and relative biases</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_reldiff_JJA.png">seasonal_bivmap_gN48_reldiff_JJA.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_reldiff_JJA.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_reldiff_JJA.png">seasonal_bivmap_gN48_reldiff_JJA.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_reldiff_JJA.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">1581.6 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 14:59</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">JJA climatologies and relative biases</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_reldiff_MAM.png">seasonal_bivmap_gN48_reldiff_MAM.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_reldiff_MAM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_reldiff_MAM.png">seasonal_bivmap_gN48_reldiff_MAM.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_reldiff_MAM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">1531.2 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 14:58</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">MAM climatologies and relative biases</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_reldiff_SON.png">seasonal_bivmap_gN48_reldiff_SON.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_reldiff_SON.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/seasonal_bivmap_gN48_reldiff_SON.png">seasonal_bivmap_gN48_reldiff_SON.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=seasonal_bivmap_gN48_reldiff_SON.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">1527.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-18 - 15:00</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">SON climatologies and relative biases</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zmls.annual.CAP1.png">zmls.annual.CAP1.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zmls.annual.CAP1.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zmls.annual.CAP1.png">zmls.annual.CAP1.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zmls.annual.CAP1.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">191.2 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-19 - 08:02</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">annual zonal means (CAPTIVATE 1 models)</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zmls.annual.CAP2.png">zmls.annual.CAP2.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zmls.annual.CAP2.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zmls.annual.CAP2.png">zmls.annual.CAP2.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zmls.annual.CAP2.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">200.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-19 - 08:13</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">annual zonal means (CAPTIVATE 2 models)</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zmls.annual.UJCCHiGEM.png">zmls.annual.UJCCHiGEM.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zmls.annual.UJCCHiGEM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zmls.annual.UJCCHiGEM.png">zmls.annual.UJCCHiGEM.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zmls.annual.UJCCHiGEM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">235.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-04-19 - 08:02</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
-<td align="left" class="twikiTableCol6 twikiLastCol" valign="top">annual zonal means (UJCC and <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HiGEM?topicparent=Project/HiResCL.HiResCLPrecipEval" rel="nofollow" title="HiGEM (this topic does not yet exist; you can create it)">HiGEM</a></span> models)</td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol6 twikiLastCol" valign="top">annual zonal means (UJCC and <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HiGEM?topicparent=Project/HiResCL.HiResCLPrecipEval" rel="nofollow" title="HiGEM (this topic does not yet exist; you can create it)">HiGEM</a></span> models)</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.CAP1.DJF.png">zonalmean.CAP1.DJF.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.CAP1.DJF.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.CAP1.DJF.png">zonalmean.CAP1.DJF.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.CAP1.DJF.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">78.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-03-18 - 14:55</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">DJF zonal mean (CAPTIVATE models)</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.CAP1.JJA.png">zonalmean.CAP1.JJA.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.CAP1.JJA.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.CAP1.JJA.png">zonalmean.CAP1.JJA.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.CAP1.JJA.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">79.1 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-03-18 - 14:57</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">JJA zonal mean (CAPTIVATE models)</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.CAP1.MAM.png">zonalmean.CAP1.MAM.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.CAP1.MAM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.CAP1.MAM.png">zonalmean.CAP1.MAM.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.CAP1.MAM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">78.8 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-03-18 - 14:56</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">MAM zonal mean (CAPTIVATE models)</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.CAP1.SON.png">zonalmean.CAP1.SON.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.CAP1.SON.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.CAP1.SON.png">zonalmean.CAP1.SON.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.CAP1.SON.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">77.7 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-03-18 - 14:57</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">SON zonal mean (CAPTIVATE models)</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.UJCCHiGEM.DJF.png">zonalmean.UJCCHiGEM.DJF.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.UJCCHiGEM.DJF.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.UJCCHiGEM.DJF.png">zonalmean.UJCCHiGEM.DJF.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.UJCCHiGEM.DJF.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">87.6 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-03-18 - 14:16</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">DJF zonal mean (UJCC and HiGEM models)</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.UJCCHiGEM.JJA.png">zonalmean.UJCCHiGEM.JJA.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.UJCCHiGEM.JJA.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.UJCCHiGEM.JJA.png">zonalmean.UJCCHiGEM.JJA.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.UJCCHiGEM.JJA.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">86.3 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-03-18 - 14:23</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">JJA zonal mean (UJCC and HiGEM models)</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.UJCCHiGEM.MAM.png">zonalmean.UJCCHiGEM.MAM.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.UJCCHiGEM.MAM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.UJCCHiGEM.MAM.png">zonalmean.UJCCHiGEM.MAM.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.UJCCHiGEM.MAM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">88.9 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-03-18 - 14:23</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">MAM zonal mean (UJCC and HiGEM models)</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.UJCCHiGEM.SON.png">zonalmean.UJCCHiGEM.SON.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.UJCCHiGEM.SON.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.UJCCHiGEM.SON.png">zonalmean.UJCCHiGEM.SON.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.UJCCHiGEM.SON.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">87.5 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-03-18 - 14:23</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">SON zonal mean (UJCC and HiGEM models)</td>
 </tr>
 <tr class="twikiTableEven twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.annual.CAP1.png">zonalmean.annual.CAP1.png</a></td>
-<td align="left" class="twikiTableCol2" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.annual.CAP1.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.annual.CAP1.png">zonalmean.annual.CAP1.png</a></td>
+<td align="left" class="twikiTableCol2" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.annual.CAP1.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3" valign="top">74.4 K</td>
 <td align="left" class="twikiTableCol4" valign="top"><span class="twikiNoBreak">2011-03-18 - 13:57</span></td>
-<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol5" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
 <td align="left" class="twikiTableCol6 twikiLastCol" valign="top">annual zonal means (CAPTIVATE models)</td>
 </tr>
 <tr class="twikiTableOdd twikiTableRowdataBgSorted0 twikiTableRowdataBg0">
 <td align="center" class="twikiTableCol0 twikiFirstCol twikiLast" valign="top"><img align="top" alt="png" border="0" height="16" src="/twiki/pub/TWiki/TWikiDocGraphics/png.gif" width="16"><span class="twikiHidden">png</span></td>
-<td align="left" class="twikiTableCol1 twikiLast" valign="top"><a href="/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.annual.UJCCHiGEM.png">zonalmean.annual.UJCCHiGEM.png</a></td>
-<td align="left" class="twikiTableCol2 twikiLast" valign="top"><a href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.annual.UJCCHiGEM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
+<td align="left" class="twikiTableCol1 twikiLast" valign="top"><a href="{{ site.baseurl }}/twiki/pub/Project/HiResCL/HiResCLPrecipEval/zonalmean.annual.UJCCHiGEM.png">zonalmean.annual.UJCCHiGEM.png</a></td>
+<td align="left" class="twikiTableCol2 twikiLast" valign="top"><a href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval?filename=zonalmean.annual.UJCCHiGEM.png;revInfo=1" rel="nofollow" title="change, update, previous revisions, move, delete...">manage</a></td>
 <td align="right" class="twikiTableCol3 twikiLast" valign="top">83.1 K</td>
 <td align="left" class="twikiTableCol4 twikiLast" valign="top"><span class="twikiNoBreak">2011-03-18 - 13:56</span></td>
-<td align="left" class="twikiTableCol5 twikiLast" valign="top"><a class="twikiLink" href="/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
-<td align="left" class="twikiTableCol6 twikiLastCol twikiLast" valign="top">annual zonal means (UJCC and <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HiGEM?topicparent=Project/HiResCL.HiResCLPrecipEval" rel="nofollow" title="HiGEM (this topic does not yet exist; you can create it)">HiGEM</a></span> models)</td>
+<td align="left" class="twikiTableCol5 twikiLast" valign="top"><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/ReinhardSchiemann">ReinhardSchiemann</a></td>
+<td align="left" class="twikiTableCol6 twikiLastCol twikiLast" valign="top">annual zonal means (UJCC and <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HiGEM?topicparent=Project/HiResCL.HiResCLPrecipEval" rel="nofollow" title="HiGEM (this topic does not yet exist; you can create it)">HiGEM</a></span> models)</td>
 </tr>
 </tbody>
 </table>
@@ -443,11 +443,11 @@ title: Comparison and Evaluation of Global Precipitation (UJCC, HiGEM, HadGEM3 m
 <!--//twikiAttachments--><!-- /patternContent-->
 <p><a name="topic-actions"></a></p>
 <div class="patternTopicActions" style="">
-<div class="patternTopicAction"><span class="patternActionButtons"><span><a accesskey="e" href="https://collab.metoffice.gov.uk/twiki/bin/edit/Project/HiResCL/HiResCLPrecipEval?t=1601309347" rel="nofollow" title="Edit this topic text"><span class="twikiAccessKey">E</span>dit</a></span><span class="twikiSeparator"> | </span><span><a accesskey="a" href="/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval" rel="nofollow" title="Attach an image or document to this topic"><span class="twikiAccessKey">A</span>ttach</a></span><span class="twikiSeparator"> | </span><span><a accesskey="p" href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?cover=print" rel="nofollow" title="Printable version of this topic"><span class="twikiAccessKey">P</span>rint version</a></span><span class="twikiSeparator"> | </span><span><span><a accesskey="h" href="/twiki/bin/rdiff/Project/HiResCL/HiResCLPrecipEval?type=history" rel="nofollow" title="View total topic history"><span class="twikiAccessKey">H</span>istory</a></span>: r12 <a href="/twiki/bin/rdiff/Project/HiResCL/HiResCLPrecipEval?rev1=12;rev2=11" rel="nofollow">&lt;</a> <a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?rev=11" rel="nofollow">r11</a> <a href="/twiki/bin/rdiff/Project/HiResCL/HiResCLPrecipEval?rev1=11;rev2=10" rel="nofollow">&lt;</a> <a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?rev=10" rel="nofollow">r10</a> <a href="/twiki/bin/rdiff/Project/HiResCL/HiResCLPrecipEval?rev1=10;rev2=9" rel="nofollow">&lt;</a> <a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?rev=9" rel="nofollow">r9</a> <a href="/twiki/bin/rdiff/Project/HiResCL/HiResCLPrecipEval?rev1=9;rev2=8" rel="nofollow">&lt;</a> <a href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?rev=8" rel="nofollow">r8</a></span><span class="twikiSeparator"> | </span><span><a accesskey="b" href="/twiki/bin/oops/Project/HiResCL/HiResCLPrecipEval?template=backlinksweb" rel="nofollow" title="Search the Project/HiResCL Web for topics that link to here"><span class="twikiAccessKey">B</span>acklinks</a></span><span class="twikiSeparator"> | </span><span><a accesskey="r" href="/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?raw=on" rel="nofollow" title="View raw text without formatting"><span class="twikiAccessKey">R</span>aw View</a></span><span class="twikiSeparator"> | </span><span><a accesskey="w" href="https://collab.metoffice.gov.uk/twiki/bin/edit/Project/HiResCL/HiResCLPrecipEval?t=1601309347;nowysiwyg=1" rel="nofollow" title="Raw Edit this topic text">Ra<span class="twikiAccessKey">w</span> edit</a></span><span class="twikiSeparator"> | </span><span><a accesskey="m" href="/twiki/bin/oops/Project/HiResCL/HiResCLPrecipEval?template=oopsmore&amp;param1=12&amp;param2=12" rel="nofollow" title="Delete or rename this topic; set parent topic; view and compare revisions"><span class="twikiAccessKey">M</span>ore topic actions</a></span></span></div>
+<div class="patternTopicAction"><span class="patternActionButtons"><span><a accesskey="e" href="https://collab.metoffice.gov.uk/twiki/bin/edit/Project/HiResCL/HiResCLPrecipEval?t=1601309347" rel="nofollow" title="Edit this topic text"><span class="twikiAccessKey">E</span>dit</a></span><span class="twikiSeparator"> | </span><span><a accesskey="a" href="{{ site.baseurl }}/twiki/bin/attach/Project/HiResCL/HiResCLPrecipEval" rel="nofollow" title="Attach an image or document to this topic"><span class="twikiAccessKey">A</span>ttach</a></span><span class="twikiSeparator"> | </span><span><a accesskey="p" href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?cover=print" rel="nofollow" title="Printable version of this topic"><span class="twikiAccessKey">P</span>rint version</a></span><span class="twikiSeparator"> | </span><span><span><a accesskey="h" href="{{ site.baseurl }}/twiki/bin/rdiff/Project/HiResCL/HiResCLPrecipEval?type=history" rel="nofollow" title="View total topic history"><span class="twikiAccessKey">H</span>istory</a></span>: r12 <a href="{{ site.baseurl }}/twiki/bin/rdiff/Project/HiResCL/HiResCLPrecipEval?rev1=12;rev2=11" rel="nofollow">&lt;</a> <a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?rev=11" rel="nofollow">r11</a> <a href="{{ site.baseurl }}/twiki/bin/rdiff/Project/HiResCL/HiResCLPrecipEval?rev1=11;rev2=10" rel="nofollow">&lt;</a> <a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?rev=10" rel="nofollow">r10</a> <a href="{{ site.baseurl }}/twiki/bin/rdiff/Project/HiResCL/HiResCLPrecipEval?rev1=10;rev2=9" rel="nofollow">&lt;</a> <a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?rev=9" rel="nofollow">r9</a> <a href="{{ site.baseurl }}/twiki/bin/rdiff/Project/HiResCL/HiResCLPrecipEval?rev1=9;rev2=8" rel="nofollow">&lt;</a> <a href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?rev=8" rel="nofollow">r8</a></span><span class="twikiSeparator"> | </span><span><a accesskey="b" href="{{ site.baseurl }}/twiki/bin/oops/Project/HiResCL/HiResCLPrecipEval?template=backlinksweb" rel="nofollow" title="Search the Project/HiResCL Web for topics that link to here"><span class="twikiAccessKey">B</span>acklinks</a></span><span class="twikiSeparator"> | </span><span><a accesskey="r" href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/HiResCLPrecipEval?raw=on" rel="nofollow" title="View raw text without formatting"><span class="twikiAccessKey">R</span>aw View</a></span><span class="twikiSeparator"> | </span><span><a accesskey="w" href="https://collab.metoffice.gov.uk/twiki/bin/edit/Project/HiResCL/HiResCLPrecipEval?t=1601309347;nowysiwyg=1" rel="nofollow" title="Raw Edit this topic text">Ra<span class="twikiAccessKey">w</span> edit</a></span><span class="twikiSeparator"> | </span><span><a accesskey="m" href="{{ site.baseurl }}/twiki/bin/oops/Project/HiResCL/HiResCLPrecipEval?template=oopsmore&amp;param1=12&amp;param2=12" rel="nofollow" title="Delete or rename this topic; set parent topic; view and compare revisions"><span class="twikiAccessKey">M</span>ore topic actions</a></span></span></div>
 <!--/patternTopicAction--></div>
 <!--/patternTopicActions-->
 <div class="patternInfo twikiGrayText">
-<div class="patternRevInfo">Topic revision: r12 - 2011-11-23 - 15:57:40 - <a class="twikiLink" href="/twiki/bin/view/Main/TWikiAdmin">TWikiAdmin</a></div>
+<div class="patternRevInfo">Topic revision: r12 - 2011-11-23 - 15:57:40 - <a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Main/TWikiAdmin">TWikiAdmin</a></div>
 <!-- /patternRevInfo-->
 <div class="patternMoved"></div>
 <!-- /patternMoved--></div>

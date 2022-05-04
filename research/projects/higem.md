@@ -8,7 +8,7 @@ title: HiGEM
 ---
 
 <h2>High-Resolution Global Environmental Modelling</h2>
-<p><img height="58" src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/higem_logo_small.jpg" style="float: left;" width="200"></p>
+<p><img height="58" src="{{ site.baseurl }}/assets/media/uploads/Logos/higem_logo_small.jpg" style="float: left;" width="200"></p>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -24,9 +24,9 @@ title: HiGEM
 <p></p>
 <p>HiGEM is a world leader in terms of the combined resolution of the coupled system and its capability to produce multi-decadal, stable simulations. It is already providing ground-breaking results in terms of addressing the scale interactions between weather and climate and their effects on the mean climate and major modes of variability, such as El Nino.</p>
 <p></p>
-<p>At the same time, the <strong><a href="/research/projects/ujcc/" title="UJCC">UJCC</a></strong> has begun development of even higher resolution models, NUGAM (atmosphere-only) and NUGEM (coupled), capable of exploiting the power of the Earth Simulator. The development of HiGEM and NUGAM/NUGEM has presented some significant scientific and technical challenges with the result that NERC now has a critical mass of experienced modellers capable of working at the cutting edge of climate system modelling.</p>
+<p>At the same time, the <strong><a href="{{ site.baseurl }}/research/projects/ujcc/" title="UJCC">UJCC</a></strong> has begun development of even higher resolution models, NUGAM (atmosphere-only) and NUGEM (coupled), capable of exploiting the power of the Earth Simulator. The development of HiGEM and NUGAM/NUGEM has presented some significant scientific and technical challenges with the result that NERC now has a critical mass of experienced modellers capable of working at the cutting edge of climate system modelling.</p>
 <p></p>
-<p><img src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Figures/higem_bathy.png"></p>
+<p><img src="{{ site.baseurl }}/assets/media/uploads/Figures/higem_bathy.png"></p>
 <p><em><strong>Figure | HiGEM model bathymetry compared with coarse-resolution HadCM3</strong></em></p>
 <p></p>
 <p><strong>To find out more, please visit the <a href="http://higem.nerc.ac.uk/" target="_blank" title="HiGEM Project Website">HiGEM website</a>.</strong></p>

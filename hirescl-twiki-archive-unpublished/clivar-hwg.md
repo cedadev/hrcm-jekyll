@@ -8,7 +8,7 @@ permalink: /hirescl-twiki-archive-unpublished/clivar-hwg/
 title: CLIVAR HWG
 ---
 
-<p>Repeating cycle of <span class="twikiNewLink"><a href="/twiki/bin/edit/Project/HiResCL/HadISST?topicparent=Project/HiResCL.ClivarHWG" rel="nofollow" title="HadISST (this topic does not yet exist; you can create it)">HadISST</a></span>SSTs. Idealised experiments with +2K and 2xCO2. Run at N96, N216 and N320 using GA3.</p>
+<p>Repeating cycle of <span class="twikiNewLink"><a href="{{ site.baseurl }}/twiki/bin/edit/Project/HiResCL/HadISST?topicparent=Project/HiResCL.ClivarHWG" rel="nofollow" title="HadISST (this topic does not yet exist; you can create it)">HadISST</a></span>SSTs. Idealised experiments with +2K and 2xCO2. Run at N96, N216 and N320 using GA3.</p>
 <p></p>
 <p>Model protocol: <a href="http://collab.metoffice.gov.uk/twiki/bin/view/Project/CAPTIVATE/ModelSetupforHWG" target="_top">http://collab.metoffice.gov.uk/twiki/bin/view/Project/CAPTIVATE/ModelSetupforHWG</a></p>
 <p></p>

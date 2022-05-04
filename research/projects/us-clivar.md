@@ -9,7 +9,7 @@ title: U.S. CLIVAR
 ---
 
 <div>
-<h2><img src="https://hrcm.ceda.ac.uk/hrcm/static/media/uploads/Logos/uc_clivar_logo.png"></h2>
+<h2><img src="{{ site.baseurl }}/assets/media/uploads/Logos/uc_clivar_logo.png"></h2>
 <h2>U.S. CLIVAR Hurricane Working Group</h2>
 <br>
 <p>The objectives of the <strong><a href="http://www.usclivar.org/working-groups/hurricane" target="_blank">U.S. CLIVAR Hurricane Working Group</a></strong> (2011-) include:</p>
@@ -23,7 +23,7 @@ title: U.S. CLIVAR
 <p><strong><br></strong></p>
 <h3><strong>UPDATES</strong></h3>
 <h4><strong>NOVEMBER 2017: New research links with PRIMAVERA and HRCM</strong></h4>
-<p>We are actively building collaborations between <strong><a href="/research/projects/primavera/">PRIMAVERA</a></strong> and U.S. CLIVAR. A special season of the <strong><a href="https://www.primavera-h2020.eu/general-assembly-3/">3rd PRIMAVERA General Assembly</a></strong> was dedicated to establishing research links between members of both projects for a range of topics relevant to HRCM, including:</p>
+<p>We are actively building collaborations between <strong><a href="{{ site.baseurl }}/research/projects/primavera/">PRIMAVERA</a></strong> and U.S. CLIVAR. A special season of the <strong><a href="https://www.primavera-h2020.eu/general-assembly-3/">3rd PRIMAVERA General Assembly</a></strong> was dedicated to establishing research links between members of both projects for a range of topics relevant to HRCM, including:</p>
 <ul>
 <li><strong>Local atmospheric response to WBCs</strong><span> - Shoshiro Minobe, Hokkaido University</span></li>
 <li><strong>Role of mixed layer depth in surface frontogenesis</strong><span> - Tomoki Tozuka, University of Tokyo</span></li>

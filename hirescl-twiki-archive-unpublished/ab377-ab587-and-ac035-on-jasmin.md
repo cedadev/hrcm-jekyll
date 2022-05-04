@@ -81,11 +81,11 @@ title: ab377, ab587 and ac035 (on JASMIN)
 <p>pr - precipitation</p>
 <h3><a name="Batch IDs of netCDF files on ela"></a> Batch IDs of netCDF files on elastic tape</h3>
 <p></p>
-<p><a class="twikiLink" href="/twiki/bin/view/Project/HiResCL/Ab377NetCDFBatchIDs">Batch IDs of ab377 netCDF files on elastic tape</a></p>
+<p><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/Ab377NetCDFBatchIDs">Batch IDs of ab377 netCDF files on elastic tape</a></p>
 <p></p>
-<p><a class="twikiLink" href="/twiki/bin/view/Project/HiResCL/Ab587NetCDFBatchIDs">Batch IDs of ab587 netCDF files on elastic tape</a></p>
+<p><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/Ab587NetCDFBatchIDs">Batch IDs of ab587 netCDF files on elastic tape</a></p>
 <p></p>
-<p><a class="twikiLink" href="/twiki/bin/view/Project/HiResCL/Ac035NetCDFBatchIDs">Batch IDs of ac035 netCDF files on elastic tape</a></p>
+<p><a class="twikiLink" href="{{ site.baseurl }}/twiki/bin/view/Project/HiResCL/Ac035NetCDFBatchIDs">Batch IDs of ac035 netCDF files on elastic tape</a></p>
 <p></p>
 <h3><a name="Known issues with the data"></a> Known issues with the data</h3>
 <p></p>

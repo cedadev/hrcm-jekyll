@@ -15,5 +15,5 @@ title: Research
 <p> </p>
 <h1>In this section...</h1>
 <p> </p>
-<h3><a href="/research/projects/">PROJECTS</a></h3>
-<h3><a href="/research/projects/"></a><a href="/research/research-themes/">RESEARCH THEMES</a></h3>
+<h3><a href="{{ site.baseurl }}/research/projects/">PROJECTS</a></h3>
+<h3><a href="{{ site.baseurl }}/research/projects/"></a><a href="{{ site.baseurl }}/research/research-themes/">RESEARCH THEMES</a></h3>
