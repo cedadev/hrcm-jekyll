@@ -68,8 +68,17 @@
     {% else %}
         {% include banner.html %}
         <!--footer-->
-        <section class="container">
-            {{ content }}
+        <section class="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 middle">
+                        {{ content }}
+                    </div>
+                    <div class="col-md-3 right">
+                        
+                    </div>
+                </div>
+            </div>
         </section>
     {% endif %}
 
