@@ -20,7 +20,7 @@
             <ul class="cat">
                 {% for author in site.data.authors %}
                     {% assign author_posts = site.posts | where: "author", author.user %}
-                    <li><a href="{{ site.baseurl }}/blog/author/{{ author.user }}">
+                    <li><a href="{{ site.baseurl }}/blog/">
                         {{ author.name }} ({{ author_posts.size }})
                     </a></li>
                 {% endfor %}
