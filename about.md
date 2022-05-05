@@ -24,14 +24,14 @@ title: About
 <p>&nbsp;</p>
 <p>__________________________________________________________________________________________________</p>
 <p>&nbsp;</p>
-<p><img alt="Met Office Hadley Centre" height="20" src="{{ site.baseurl }}/assets/media/uploads/Logos/hadley_centre_logo_small.jpg"></p>
+<p><img alt="Met Office Hadley Centre" src="{{ site.baseurl }}/assets/media/uploads/Logos/hadley_centre_logo_small.jpg"></p>
 <p>The Met Office Hadley Centre is one of the world's foremost climate change research centres.</p>
 <p>We produce world-class guidance on the science of climate change and provide a focus in the UK for the scientific issues associated with climate science.</p>
 <p>Largely co-funded by <strong><a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy and Industrial Strategy</a></strong>&nbsp;and <strong><a href="https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs">Defra</a></strong> (the Department for Environment, Food and Rural Affairs), we provide in-depth information to, and advise, the Government on climate science issues.</p>
 <p>Hadley Centre scientists make significant contributions to peer-reviewed literature and to a variety of climate science reports, including the Assessment Report of the IPCC, and our climate projections were the basis for the <strong><a href="http://webarchive.nationalarchives.gov.uk/+/http:/www.hm-treasury.gov.uk/independent_reviews/stern_review_economics_climate_change/stern_review_report.cfm">Stern Review on the Economics of Climate Change</a></strong>.</p>
 <p><strong>Click&nbsp;<a href="http://www.metoffice.gov.uk/climate-guide/science/science-behind-climate-change/hadley">here</a>&nbsp;to find out more.</strong></p>
 <p>&nbsp;</p>
-<p><img alt="NCAS" height="20" src="{{ site.baseurl }}/assets/media/uploads/Logos/ncas_logo_small.jpg"></p>
+<p><img alt="NCAS" src="{{ site.baseurl }}/assets/media/uploads/Logos/ncas_logo_small.jpg"></p>
 <p>The National Centre for Atmospheric Science (NCAS) is a world leader in atmospheric science. With an annual budget of &pound;9M, we carry out research programmes on:</p>
 <ul>
 <li>The science of climate change, including modelling and predictions</li>
